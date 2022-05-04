@@ -1,0 +1,613 @@
+Nodes:
+  patient:
+    Props: null
+  visit:
+    Props: null
+  study:
+    Props: null
+  procedure_steps:
+    Props: null
+  series:
+    Props: null
+  image:
+    Props: null
+  measurements:
+    Props: null
+  segmentation:
+    Props: null
+  fiducials:
+    Props: null
+  frame_of_reference:
+    Props: null
+  presentation_state:
+    Props: null
+  registration:
+    Props: null
+  stereometric_relationship:
+    Props: null
+  tractography_results:
+    Props: null
+  raw_data:
+    Props: null
+  real_world_value_mapping:
+    Props: null
+  sr_document:
+    Props: null
+  surface:
+    Props: null
+  waveform:
+    Props: null    
+  annotations:
+    Props: null
+  computed_radiography_modality:
+    Props: null
+  computed_tomography_modality:
+    Props: null
+  digital_x_ray_modality:
+    Props: null    
+  magnetic_resonance_modality:
+    Props: null
+  mr_spectroscopy_modality:
+    Props: null    
+  nuclear_medicine_modality:
+    Props: null
+  optical_coherence_tomography_modality:
+    Props: null
+  positron_emission_tomography_modality:
+    Props: null
+  radiotherapy_modality:
+    Props: null
+  ultrasound_modality:
+    Props: null
+  visible_light_modality:
+    Props: null
+  x_ray_modality:
+    Props: null
+  x_ray_angiopathy_modality:
+    Props: null
+Relationships:
+  makes:
+    Props: null
+    Mul: one_to_many
+    Ends:
+      - Src: patient
+        Dst: visit
+  has:
+    Props: null
+    Mul: one_to_many
+    Ends:
+      - Src: patient
+        Dst: study
+  includes:
+    Props: null
+    Mul: one_to_many
+    Ends:
+      - Src: visit
+        Dst: study
+      - Src: procedure_steps
+        Dst: series
+  comprised_of:
+    Props: null
+    Mul: many_to_many
+    Ends:
+      - Src: study
+        Dst: procedure_steps
+  spatially_defines:
+    Props: null
+    Mul: one_to_many
+    Ends:
+      - Src: registration
+        Dst: frame_of_reference
+      - Src: frame_of_reference
+        Dst: series
+  contains:
+    Props: null
+    Mul: one_to_many
+    Ends:
+      - Src: study
+        Dst: series
+      - Src: series
+        Dst: measurements
+      - Src: series
+        Dst: segmentation
+      - Src: series
+        Dst: image
+      - Src: series
+        Dst: fiducials
+      - Src: series
+        Dst: registration
+      - Src: series
+        Dst: presentation_state
+      - Src: series
+        Dst: stereometric_relationship
+      - Src: series
+        Dst: tractography_results
+      - Src: series
+        Dst: raw_data
+      - Src: series
+        Dst: real_world_value_mapping
+      - Src: series
+        Dst: sr_document
+      - Src: series
+        Dst: surface
+      - Src: series
+        Dst: waveform
+      - Src: series
+        Dst: annotations
+      - Src: series
+        Dst: computed_radiography_modality
+      - Src: series
+        Dst: computed_tomography_modality
+      - Src: series
+        Dst: digital_x_ray_modality
+      - Src: series
+        Dst: magnetic_resonance_modality
+      - Src: series
+        Dst: mr_spectroscopy_modality
+      - Src: series
+        Dst: nuclear_medicine_modality
+      - Src: series
+        Dst: optical_coherence_tomography_modality
+      - Src: series
+        Dst: positron_emission_tomography_modality
+      - Src: series
+        Dst: ultrasound_modality
+      - Src: series
+        Dst: visible_light_modality
+      - Src: series
+        Dst: x_ray_modality
+      - Src: series
+        Dst: x_ray_angiopathy_modality
+  specifies:
+    Ends:
+      - Dst: presentation_state
+        Src: advanced_blending_presentation_state_display
+      - Dst: presentation_state
+        Src: advanced_blending_presentation_state
+      - Dst: radiotherapy_modality
+        Src: approval
+      - Dst: radiotherapy_modality
+        Src: beam_limiting_device_position
+      - Dst: x_ray_modality
+        Src: breast_tomosynthesis_acquisition
+      - Dst: x_ray_modality
+        Src: breast_tomosynthesis_contributing_sources
+      - Dst: x_ray_modality
+        Src: breast_view
+      - Dst: computed_radiography_modality
+        Src: cr_image
+      - Dst: computed_radiography_modality
+        Src: cr_series
+      - Dst: computed_tomography_modality
+        Src: ct_image
+      - Dst: procedure_steps
+        Src: ct_protocol_series
+      - Dst: computed_tomography_modality
+        Src: ct_series
+      - Dst: procedure_steps
+        Src: clinical_trial_context
+      - Dst: computed_tomography_modality
+        Src: common_ct_mr_image_description
+      - Dst: ultrasound_modality
+        Src: common_ct_mr_image_description
+      - Dst: magnetic_resonance_modality
+        Src: common_ct_mr_image_description
+      - Dst: digital_x_ray_modality
+        Src: dx_anatomy_imaged
+      - Dst: digital_x_ray_modality
+        Src: dx_detector
+      - Dst: digital_x_ray_modality
+        Src: dx_image
+      - Dst: digital_x_ray_modality
+        Src: dx_positioning
+      - Dst: digital_x_ray_modality
+        Src: dx_series
+      - Dst: registration
+        Src: deformable_spatial_registration
+      - Dst: digital_x_ray_modality
+        Src: digital_x_ray_detector
+      - Dst: waveform
+        Src: displayed_area
+      - Dst: sr_document
+        Src: document_content
+      - Dst: sr_document
+        Src: document_relationship
+      - Dst: encapsulated_document
+        Src: encapsulated_document
+      - Dst: encapsulated_document
+        Src: encapsulated_document_series
+      - Dst: computed_tomography_modality
+        Src: enhanced_ct_image
+      - Dst: magnetic_resonance_modality
+        Src: enhanced_mr_image
+      - Dst: image
+        Src: enhanced_mammography_image
+      - Dst: digital_x_ray_modality
+        Src: enhanced_mammography_series
+      - Dst: computed_tomography_modality
+        Src: enhanced_multi_energy_ct_acquisition
+      - Dst: positron_emission_tomography_modality
+        Src: enhanced_pet_acquisition
+      - Dst: positron_emission_tomography_modality
+        Src: enhanced_pet_corrections
+      - Dst: positron_emission_tomography_modality
+        Src: enhanced_pet_image
+      - Dst: positron_emission_tomography_modality
+        Src: enhanced_pet_isotope
+      - Dst: positron_emission_tomography_modality
+        Src: enhanced_pet_series
+      - Dst: radiotherapy_modality
+        Src: enhanced_rt_series
+      - Dst: ultrasound_modality
+        Src: enhanced_us_image
+      - Dst: ultrasound_modality
+        Src: enhanced_us_series
+      - Dst: procedure_steps
+        Src: equipment_specification
+      - Dst: waveform
+        Src: fill_style_sequence_mcr
+      - Dst: waveform
+        Src: graphic_annotation
+      - Dst: waveform
+        Src: graphic_layer
+      - Dst: sr_document
+        Src: hierarchical_sop_instance_reference
+      - Dst: sr_document
+        Src: hierarchical_series_reference
+      - Dst: sr_document
+        Src: identified_person_or_device
+      - Dst: study
+        Src: image_acquisition_results
+      - Dst: presentation_state
+        Src: image_histogram
+      - Dst: study
+        Src: imaging_service_request
+      - Dst: study
+        Src: instance_availability_notification
+      - Dst: digital_x_ray_modality
+        Src: intra_oral_image
+      - Dst: digital_x_ray_modality
+        Src: intra_oral_series
+      - Dst: optical_coherence_tomography_modality
+        Src: intravascular_oct_image
+      - Dst: optical_coherence_tomography_modality
+        Src: intravascular_oct_processing_parameters
+      - Dst: optical_coherence_tomography_modality
+        Src: intravascular_oct_series
+      - Dst: sr_document
+        Src: key_object_document
+      - Dst: sr_document
+        Src: key_object_document_series
+      - Dst: waveform
+        Src: line_style_sequence_mcr
+      - Dst: presentation_state
+        Src: mpr_volumetric_presentation_state_display
+      - Dst: magnetic_resonance_modality
+        Src: mr_image_description
+      - Dst: magnetic_resonance_modality
+        Src: mr_image
+      - Dst: magnetic_resonance_modality
+        Src: mr_image_and_spectroscopy_instance
+      - Dst: magnetic_resonance_modality
+        Src: mr_pulse_sequence
+      - Dst: magnetic_resonance_modality
+        Src: mr_series
+      - Dst: mr_spectroscopy_modality
+        Src: mr_spectroscopy_data
+      - Dst: mr_spectroscopy_modality
+        Src: mr_spectroscopy_description
+      - Dst: mr_spectroscopy_modality
+        Src: mr_spectroscopy
+      - Dst: mr_spectroscopy_modality
+        Src: mr_spectroscopy_pulse_sequence
+      - Dst: digital_x_ray_modality
+        Src: mammography_image
+      - Dst: digital_x_ray_modality
+        Src: mammography_series
+      - Dst: radiotherapy_modality
+        Src: measured_dose_reference_record
+      - Dst: annotations
+        Src: microscopy_bulk_simple_annotations
+      - Dst: annotations
+        Src: microscopy_bulk_simple_annotations_series
+      - Dst: presentation_state
+        Src: modality_lut
+      - Dst: computed_tomography_modality
+        Src: multi_energy_ct_x_ray_source
+      - Dst: image
+        Src: multi_frame_overlay
+      - Dst: nuclear_medicine_modality
+        Src: nm_detector
+      - Dst: nuclear_medicine_modality
+        Src: nm_image
+      - Dst: nuclear_medicine_modality
+        Src: nm_image_pixel
+      - Dst: nuclear_medicine_modality
+        Src: nm_isotope
+      - Dst: nuclear_medicine_modality
+        Src: nm_multi_gated_acquisition
+      - Dst: nuclear_medicine_modality
+        Src: nm_multi_frame
+      - Dst: nuclear_medicine_modality
+        Src: nm_phase
+      - Dst: nuclear_medicine_modality
+        Src: nm_reconstruction
+      - Dst: nuclear_medicine_modality
+        Src: nm_tomo_acquisition
+      - Dst: nuclear_medicine_modality
+        Src: nm_pet_patient_orientation
+      - Dst: visible_light_modality
+        Src: optical_path
+      - Dst: image
+        Src: overlay_plane
+      - Dst: positron_emission_tomography_modality
+        Src: pet_image
+      - Dst: positron_emission_tomography_modality
+        Src: pet_isotope
+      - Dst: positron_emission_tomography_modality
+        Src: pet_multi_gated_acquisition
+      - Dst: positron_emission_tomography_modality
+        Src: pet_series
+      - Dst: patient
+        Src: patient_demographic
+      - Dst: patient
+        Src: patient_identification
+      - Dst: patient
+        Src: patient_medical
+      - Dst: procedure_steps
+        Src: patient_positioning
+      - Dst: procedure_steps
+        Src: patient_protocol_context
+      - Dst: patient
+        Src: patient_relationship
+      - Dst: radiotherapy_modality
+        Src: patient_support_identification
+      - Dst: procedure_steps
+        Src: performed_ct_acquisition
+      - Dst: procedure_steps
+        Src: performed_ct_reconstruction
+      - Dst: study
+        Src: performed_procedure_step_information
+      - Dst: study
+        Src: performed_procedure_step_relationship
+      - Dst: procedure_steps
+        Src: performed_storage
+      - Dst: procedure_steps
+        Src: performed_xa_acquisition
+      - Dst: procedure_steps
+        Src: performed_xa_reconstruction
+      - Dst: presentation_state
+        Src: presentation_lut
+      - Dst: presentation_state
+        Src: presentation_series
+      - Dst: presentation_state
+        Src: presentation_state_blending
+      - Dst: presentation_state
+        Src: presentation_state_identification
+      - Dst: presentation_state
+        Src: presentation_state_mask
+      - Dst: presentation_state
+        Src: presentation_state_relationship
+      - Dst: presentation_state
+        Src: presentation_state_shutter
+      - Dst: presentation_state
+        Src: presentation_view_description
+      - Dst: procedure_steps
+        Src: product_characteristics
+      - Dst: procedure_steps
+        Src: protocol_approval
+      - Dst: procedure_steps
+        Src: protocol_context
+      - Dst: radiotherapy_modality
+        Src: roi_contour
+      - Dst: radiotherapy_modality
+        Src: rt_beams_delivery_instruction
+      - Dst: radiotherapy_modality
+        Src: rt_beams
+      - Dst: radiotherapy_modality
+        Src: rt_brachy_application_setup_delivery_instruction
+      - Dst: radiotherapy_modality
+        Src: rt_brachy_application_setups
+      - Dst: radiotherapy_modality
+        Src: rt_dvh
+      - Dst: radiotherapy_modality
+        Src: rt_dose
+      - Dst: radiotherapy_modality
+        Src: rt_dose_roi
+      - Dst: radiotherapy_modality
+        Src: rt_fraction_scheme
+      - Dst: radiotherapy_modality
+        Src: rt_general_machine_verification
+      - Dst: radiotherapy_modality
+        Src: rt_general_plan
+      - Dst: radiotherapy_modality
+        Src: rt_general_treatment_record
+      - Dst: radiotherapy_modality
+        Src: rt_image
+      - Dst: radiotherapy_modality
+        Src: rt_ion_beams
+      - Dst: radiotherapy_modality
+        Src: rt_patient_setup
+      - Dst: radiotherapy_modality
+        Src: rt_physician_intent
+      - Dst: radiotherapy_modality
+        Src: rt_prescription
+      - Dst: radiotherapy_modality
+        Src: rt_roi_observations
+      - Dst: radiotherapy_modality
+        Src: rt_radiation_common_base
+      - Dst: radiotherapy_modality
+        Src: rt_radiation_common
+      - Dst: radiotherapy_modality
+        Src: rt_radiation_record_common
+      - Dst: radiotherapy_modality
+        Src: rt_radiation_record_set
+      - Dst: radiotherapy_modality
+        Src: rt_radiation_set
+      - Dst: radiotherapy_modality
+        Src: rt_segment_annotation
+      - Dst: radiotherapy_modality
+        Src: rt_series
+      - Dst: radiotherapy_modality
+        Src: rt_tolerance_tables
+      - Dst: radiotherapy_modality
+        Src: rt_treatment_machine_record
+      - Dst: radiotherapy_modality
+        Src: rt_treatment_position
+      - Dst: radiotherapy_modality
+        Src: radiotherapy_common_instance
+      - Dst: presentation_state
+        Src: render_display
+      - Dst: study
+        Src: requested_procedure
+      - Dst: sr_document
+        Src: sr_document_content
+      - Dst: sr_document
+        Src: sr_document_general
+      - Dst: sr_document
+        Src: sr_document_series
+      - Dst: study
+        Src: scheduled_procedure_step
+      - Dst: image
+        Src: segment_description
+      - Dst: image
+        Src: segmentation_image
+      - Dst: image
+        Src: segmentation_series
+      - Dst: presentation_state
+        Src: softcopy_presentation_lut
+      - Dst: presentation_state
+        Src: softcopy_voi_lut
+      - Dst: fiducials
+        Src: spatial_fiducials
+      - Dst: fiducials
+        Src: spatial_fiducials_series
+      - Dst: registration
+        Src: spatial_registration
+      - Dst: registration
+        Src: spatial_registration_series
+      - Dst: waveform
+        Src: spatial_transformation
+      - Dst: radiotherapy_modality
+        Src: structure_set
+      - Dst: presentation_state
+        Src: structured_display_image_box
+      - Dst: presentation_state
+        Src: structured_display
+      - Dst: procedure_steps
+        Src: substance_administration_log
+      - Dst: surface
+        Src: surface_segmentation
+      - Dst: waveform
+        Src: text_style_sequence_mcr
+      - Dst: presentation_state
+        Src: threshold_sequence_mcr
+      - Dst: radiotherapy_modality
+        Src: tomotherapeutic_beam
+      - Dst: tractography_results
+        Src: tractography_results
+      - Dst: tractography_results
+        Src: tractography_results_series
+      - Dst: ultrasound_modality
+        Src: us_image
+      - Dst: ultrasound_modality
+        Src: us_region_calibration
+      - Dst: procedure_steps
+        Src: unified_procedure_step_performed_procedure_information
+      - Dst: procedure_steps
+        Src: unified_procedure_step_relationship
+      - Dst: procedure_steps
+        Src: unified_procedure_step_scheduled_procedure_information
+      - Dst: visible_light_modality
+        Src: vl_image
+      - Dst: presentation_state
+        Src: voi_lut
+      - Dst: visit
+        Src: visit_admission
+      - Dst: visit
+        Src: visit_identification
+      - Dst: visit
+        Src: visit_relationship
+      - Dst: measurements
+        Src: visual_field_static_perimetry_measurements_series
+      - Dst: presentation_state
+        Src: volume_cropping
+      - Dst: presentation_state
+        Src: volumetric_presentation_state_identification
+      - Dst: presentation_state
+        Src: volumetric_presentation_state_relationship
+      - Dst: waveform
+        Src: waveform_annotation
+      - Dst: waveform
+        Src: waveform_identification
+      - Dst: visible_light_modality
+        Src: whole_slide_microscopy_image
+      - Dst: visible_light_modality
+        Src: whole_slide_microscopy_series
+      - Dst: x_ray_modality
+        Src: x_ray_3d_angiographic_acquisition
+      - Dst: x_ray_modality
+        Src: x_ray_3d_angiographic_image_contributing_sources
+      - Dst: x_ray_modality
+        Src: x_ray_3d_craniofacial_acquisition
+      - Dst: x_ray_modality
+        Src: x_ray_3d_craniofacial_image_contributing_sources
+      - Dst: x_ray_modality
+        Src: x_ray_3d_general_per_projection_acquisition
+      - Dst: x_ray_modality
+        Src: x_ray_3d_general_positioner_movement
+      - Dst: x_ray_modality
+        Src: x_ray_3d_general_shared_acquisition
+      - Dst: x_ray_modality
+        Src: x_ray_3d_image
+      - Dst: x_ray_modality
+        Src: x_ray_acquisition_dose
+      - Dst: x_ray_modality
+        Src: x_ray_acquisition
+      - Dst: x_ray_modality
+        Src: x_ray_collimator_dimensions
+      - Dst: x_ray_angiopathy_modality
+        Src: x_ray_collimator
+      - Dst: x_ray_modality
+        Src: x_ray_collimator
+      - Dst: x_ray_angiopathy_modality
+        Src: x_ray_detector
+      - Dst: x_ray_modality
+        Src: x_ray_filtration
+      - Dst: x_ray_modality
+        Src: x_ray_generation
+      - Dst: x_ray_modality
+        Src: x_ray_grid_description
+      - Dst: image
+        Src: x_ray_grid
+      - Dst: x_ray_modality
+        Src: x_ray_grid
+      - Dst: x_ray_modality
+        Src: x_ray_image
+      - Dst: x_ray_modality
+        Src: x_ray_table
+      - Dst: x_ray_modality
+        Src: x_ray_tomography_acquisition
+      - Dst: x_ray_modality
+        Src: xa_positioner
+      - Dst: procedure_steps
+        Src: xa_protocol_series
+      - Dst: x_ray_angiopathy_modality
+        Src: xa_xrf_acquisition
+      - Dst: x_ray_angiopathy_modality
+        Src: xa_xrf_multi_frame_presentation
+      - Dst: presentation_state
+        Src: xa_xrf_presentation_state_mask
+      - Dst: presentation_state
+        Src: xa_xrf_presentation_state_presentation
+      - Dst: presentation_state
+        Src: xa_xrf_presentation_state_shutter
+      - Dst: x_ray_angiopathy_modality
+        Src: xa_xrf_series
+      - Dst: x_ray_modality
+        Src: xrf_positioner
+    Mul: many_to_one
+    Props: ~
+          
+      
+      

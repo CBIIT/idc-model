@@ -1,0 +1,5894 @@
+{
+   "C.8.12.9" : {
+      "tbls" : [
+         [
+            "C.8.12.10",
+            "table_C.8.12.10-1"
+         ]
+      ],
+      "name" : "Whole Slide Microscopy Image Frame Type Macro"
+   },
+   "C.36.8" : {
+      "name" : "RT Segment Annotation Module",
+      "tbls" : [
+         [
+            "C.36.9",
+            "table_C.36.9-1"
+         ],
+         [
+            "C.36.9.1.1",
+            "table_C.36.9-2"
+         ]
+      ]
+   },
+   "C.34.13" : {
+      "name" : "Defined Storage Module",
+      "tbls" : [
+         [
+            "C.34.14",
+            "table_C.34.14-1"
+         ]
+      ]
+   },
+   "C.11.8" : {
+      "tbls" : [
+         [
+            "C.11.9",
+            "table_C.11.9-1"
+         ]
+      ],
+      "name" : "Softcopy VOI LUT Module"
+   },
+   "C.8.4.11" : {
+      "name" : "NM Detector Module",
+      "tbls" : [
+         [
+            "C.8.4.12",
+            "table_C.8-12"
+         ]
+      ]
+   },
+   "C.8.20" : {
+      "tbls" : [
+         [
+            "C.8.21.1",
+            "table_C.8.21.1-1"
+         ]
+      ],
+      "name" : "Segmentation"
+   },
+   "C.36.2.2.9" : {
+      "name" : "RT Beam Limiting Device Opening Macro",
+      "tbls" : [
+         [
+            "C.36.2.2.10",
+            "table_C.36.2.2.10-1"
+         ]
+      ]
+   },
+   "C.8.14.5.1.1.3" : {
+      "name" : "Image Flavor",
+      "tbls" : [
+         [
+            "C.8.14.5.1.1.4",
+            "table_C.8-109"
+         ]
+      ]
+   },
+   "C.32.3.3" : {
+      "name" : "Luminance Uniformity Result Macro",
+      "tbls" : [
+         [
+            "C.32.3.4",
+            "table_C.32.3.4-1"
+         ]
+      ]
+   },
+   "C.8.18.1" : {
+      "tbls" : [
+         [
+            "C.8.18.2",
+            "table_C.8.18.2-1"
+         ]
+      ],
+      "name" : "Stereometric Series Module"
+   },
+   "C.8.16.1.2" : {
+      "name" : "Patient Examination Characteristics",
+      "tbls" : [
+         [
+            "C.8.16.1.3",
+            "table_C.8-129"
+         ]
+      ]
+   },
+   "C.8.6.1" : {
+      "tbls" : [
+         [
+            "C.8.6.2",
+            "table_C.8-25"
+         ]
+      ],
+      "name" : "SC Equipment Module"
+   },
+   "C.13.8" : {
+      "name" : "Print Job Module",
+      "tbls" : [
+         [
+            "C.13.9",
+            "table_C.13-9"
+         ],
+         [
+            "C.13.9.1",
+            "table_C.13.9.1-1"
+         ]
+      ]
+   },
+   "C.7.6.4b" : {
+      "name" : "Enhanced Contrast/Bolus Module",
+      "tbls" : [
+         [
+            "C.7.6.5",
+            "table_C.7-13"
+         ]
+      ]
+   },
+   "C.7.6.16.2.8" : {
+      "tbls" : [
+         [
+            "C.7.6.16.2.9",
+            "table_C.7.6.16-10"
+         ]
+      ],
+      "name" : "Frame Anatomy Macro"
+   },
+   "C.7.6.16.2.12" : {
+      "name" : "Contrast/Bolus Usage Macro",
+      "tbls" : [
+         [
+            "C.7.6.16.2.13",
+            "table_C.7.6.16-14"
+         ]
+      ]
+   },
+   "C.8.13.5.11" : {
+      "name" : "MR Spatial Saturation Macro",
+      "tbls" : [
+         [
+            "C.8.13.5.12",
+            "table_C.8-99"
+         ]
+      ]
+   },
+   "C.8.28.2" : {
+      "tbls" : [
+         [
+            "C.8.28.3",
+            "table_C.8.28.3-1"
+         ]
+      ],
+      "name" : "Ophthalmic Thickness Map Module"
+   },
+   "C.36.2.2.6" : {
+      "name" : "External Beam Control Point General Macro",
+      "tbls" : [
+         [
+            "C.36.2.2.7",
+            "table_C.36.2.2.7-1"
+         ]
+      ]
+   },
+   "C.8.14.5.1.2" : {
+      "tbls" : [
+         [
+            "C.8.14.5.1.3",
+            "table_C.8-110"
+         ]
+      ],
+      "name" : "Volumetric Properties"
+   },
+   "C.8.26.3" : {
+      "name" : "Visual Field Static Perimetry Test Reliability Module",
+      "tbls" : [
+         [
+            "C.8.26.4",
+            "table_C.8.26.4-1"
+         ]
+      ]
+   },
+   "C.10.5.1.3.13" : {
+      "tbls" : [
+         [
+            "C.10.5.1.3.14",
+            "table_C.10-5c"
+         ]
+      ],
+      "name" : "Line Style Sequence"
+   },
+   "C.17.3.2.3" : {
+      "name" : "Continuity of Content",
+      "tbls" : [
+         [
+            "C.17.3.2.4",
+            "table_C.17.3-8"
+         ]
+      ]
+   },
+   "C.20.2" : {
+      "tbls" : [
+         [
+            "C.20.3",
+            "table_C.20.3-1"
+         ]
+      ],
+      "name" : "Spatial Registration Module"
+   },
+   "C.7.6.16.2.7" : {
+      "tbls" : [
+         [
+            "C.7.6.16.2.8",
+            "table_C.7.6.16-9"
+         ]
+      ],
+      "name" : "Cardiac Synchronization Macro"
+   },
+   "C.36.2.2.10" : {
+      "tbls" : [
+         [
+            "C.36.2.2.11",
+            "table_C.36.2.2.11-1"
+         ]
+      ],
+      "name" : "Wedges Definition Macro"
+   },
+   "C.8.13.3" : {
+      "name" : "MR Image Description Macro",
+      "tbls" : [
+         [
+            "C.8.13.4",
+            "table_C.8-87"
+         ]
+      ]
+   },
+   "C.8.28.1" : {
+      "tbls" : [
+         [
+            "C.8.28.2",
+            "table_C.8.28.2-1"
+         ]
+      ],
+      "name" : "Ophthalmic Thickness Map Series Module"
+   },
+   "C.36.18" : {
+      "tbls" : [
+         [
+            "C.36.19",
+            "table_C.36.19-1"
+         ]
+      ],
+      "name" : "Robotic-Arm Delivery Device Module"
+   },
+   "C.8.4.14" : {
+      "name" : "NM Phase Module",
+      "tbls" : [
+         [
+            "C.8.4.15",
+            "table_C.8-15"
+         ]
+      ]
+   },
+   "C.7.3" : {
+      "name" : "Common Series IE Modules",
+      "tbls" : [
+         [
+            "C.7.4.1",
+            "table_C.7-6"
+         ]
+      ]
+   },
+   "C.8.25.7" : {
+      "name" : "General Ophthalmic Refractive Measurements Module",
+      "tbls" : [
+         [
+            "C.8.25.8",
+            "table_C.8.25.8-1"
+         ],
+         [
+            "C.8.25.8",
+            "table_C.8.25.8-2"
+         ]
+      ]
+   },
+   "C.8.15.2.1.1.2" : {
+      "tbls" : [
+         [
+            "C.8.15.2.1.1.3",
+            "table_C.8-115"
+         ]
+      ],
+      "name" : "Patient Examination Characteristics"
+   },
+   "C.36.2.1" : {
+      "tbls" : [
+         [
+            "C.36.2.2.1",
+            "table_C.36.2.2.1-1"
+         ]
+      ],
+      "name" : "RT Second Generation General Purpose Macros"
+   },
+   "C.8.27.6.2" : {
+      "name" : "Intravascular Frame Content Macro",
+      "tbls" : [
+         [
+            "C.8.27.6.3",
+            "table_C.8.27.6.3-1"
+         ]
+      ]
+   },
+   "C.8.19.2" : {
+      "tbls" : [
+         [
+            "C.8.19.3",
+            "table_C.8.19.3-1"
+         ]
+      ],
+      "name" : "Enhanced XA/XRF Image Module"
+   },
+   "C.8.8.22" : {
+      "name" : "RT Brachy Session Record Module",
+      "tbls" : [
+         [
+            "C.8.8.23",
+            "table_C.8-59"
+         ]
+      ]
+   },
+   "C.12.1" : {
+      "tbls" : [
+         [
+            "C.12.2",
+            "table_C.12-8"
+         ]
+      ],
+      "name" : "SOP Common Module"
+   },
+   "C.8.20.2" : {
+      "tbls" : [
+         [
+            "C.8.20.3.1",
+            "table_C.8.20-3"
+         ]
+      ],
+      "name" : "Segmentation Image Module"
+   },
+   "C.8.20.1" : {
+      "name" : "Segmentation Series Module",
+      "tbls" : [
+         [
+            "C.8.20.2",
+            "table_C.8.20-2"
+         ]
+      ]
+   },
+   "C.8.25.5" : {
+      "name" : "Visual Acuity Measurements Series Module",
+      "tbls" : [
+         [
+            "C.8.25.6.1",
+            "table_C.8.25.6.1-1"
+         ]
+      ]
+   },
+   "C.8.25.3" : {
+      "tbls" : [
+         [
+            "C.8.25.4",
+            "table_C.8.25.4-1"
+         ]
+      ],
+      "name" : "Keratometry Measurements Series Module"
+   },
+   "C.13.7" : {
+      "name" : "Basic Annotation Presentation Module",
+      "tbls" : [
+         [
+            "C.13.8",
+            "table_C.13-8"
+         ]
+      ]
+   },
+   "C.7.6.25" : {
+      "tbls" : [
+         [
+            "C.7.6.26",
+            "table_C.7.6.26-1"
+         ]
+      ],
+      "name" : "Double Floating Point Image Pixel Module"
+   },
+   "C.8.17.4" : {
+      "name" : "Ophthalmic Photography Acquisition Parameters Module",
+      "tbls" : [
+         [
+            "C.8.17.5",
+            "table_C.8.17.5-1"
+         ]
+      ]
+   },
+   "C.18.1" : {
+      "tbls" : [
+         [
+            "C.18.2",
+            "table_C.18.2-1"
+         ]
+      ],
+      "name" : "Numeric Measurement Macro"
+   },
+   "C.11.7" : {
+      "name" : "Overlay Activation Module",
+      "tbls" : [
+         [
+            "C.11.8",
+            "table_C.11.8-1"
+         ]
+      ]
+   },
+   "C.7.5" : {
+      "tbls" : [
+         [
+            "C.7.6.1",
+            "table_C.7-9"
+         ]
+      ],
+      "name" : "Common Equipment IE Modules"
+   },
+   "C.8.1" : {
+      "name" : "Computed Radiography Modules",
+      "tbls" : [
+         [
+            "C.8.2.1",
+            "table_C.8-3"
+         ]
+      ]
+   },
+   "C.36.2.2.14" : {
+      "name" : "RT Accessory Holders Definition Macro",
+      "tbls" : [
+         [
+            "C.36.2.2.15",
+            "table_C.36.2.2.15-1"
+         ]
+      ]
+   },
+   "C.8.25.2" : {
+      "name" : "Autorefraction Measurements Series Module",
+      "tbls" : [
+         [
+            "C.8.25.3",
+            "table_C.8.25.3-1"
+         ]
+      ]
+   },
+   "C.8.15" : {
+      "name" : "Enhanced CT Image",
+      "tbls" : [
+         [
+            "C.8.16.1.1",
+            "table_C.8-127"
+         ]
+      ]
+   },
+   "C.7.6.17" : {
+      "tbls" : [
+         [
+            "C.7.6.18.1",
+            "table_C.7.6.18-1"
+         ]
+      ],
+      "name" : "Multi-frame Dimension Module"
+   },
+   "C.34.3" : {
+      "tbls" : [
+         [
+            "C.34.4",
+            "table_C.34.4-1"
+         ]
+      ],
+      "name" : "Patient Protocol Context Module"
+   },
+   "C.3.1" : {
+      "tbls" : [
+         [
+            "C.3.2",
+            "table_C.3-2"
+         ]
+      ],
+      "name" : "Visit Relationship Module"
+   },
+   "C.8.17.11" : {
+      "tbls" : [
+         [
+            "C.8.17.12",
+            "table_C.8.17.12-1"
+         ]
+      ],
+      "name" : "Wide Field Ophthalmic Photography Stereographic Projection Module"
+   },
+   "C.7.6.9" : {
+      "tbls" : [
+         [
+            "C.7.6.10",
+            "table_C.7-16"
+         ],
+         [
+            "C.7.6.10.1.1",
+            "table_C.7.6.10-1"
+         ]
+      ],
+      "name" : "Frame Pointers Module"
+   },
+   "C.8.13.5.12" : {
+      "tbls" : [
+         [
+            "C.8.13.5.13",
+            "table_C.8-100"
+         ]
+      ],
+      "name" : "MR Metabolite Map Macro"
+   },
+   "C.8.8" : {
+      "tbls" : [
+         [
+            "C.8.9.1",
+            "table_C.8-60"
+         ]
+      ],
+      "name" : "Radiotherapy Modules"
+   },
+   "C.8.5.6.1.15" : {
+      "name" : "High Bit",
+      "tbls" : [
+         [
+            "C.8.5.6.1.16",
+            "table_C.8-23"
+         ]
+      ]
+   },
+   "C.8.7.4" : {
+      "name" : "X-Ray Table Module",
+      "tbls" : [
+         [
+            "C.8.7.5",
+            "table_C.8-30"
+         ]
+      ]
+   },
+   "C.8.11.8" : {
+      "name" : "Intra-Oral Series Module",
+      "tbls" : [
+         [
+            "C.8.11.9",
+            "table_C.8-76"
+         ]
+      ]
+   },
+   "C.12.4" : {
+      "tbls" : [
+         [
+            "C.12.5",
+            "table_C.12.5-1"
+         ]
+      ],
+      "name" : "General Reference Module"
+   },
+   "C.2.2" : {
+      "tbls" : [
+         [
+            "C.2.3",
+            "table_C.2-3"
+         ]
+      ],
+      "name" : "Patient Identification Module"
+   },
+   "C.36.2.2.4" : {
+      "tbls" : [
+         [
+            "C.36.2.2.5",
+            "table_C.36.2.2.5-1"
+         ]
+      ],
+      "name" : "RT Treatment Position Macro"
+   },
+   "C.7.3.1" : {
+      "name" : "General Series Module",
+      "tbls" : [
+         [
+            "C.7.3.2",
+            "table_C.7-5b"
+         ]
+      ]
+   },
+   "C.4.12" : {
+      "tbls" : [
+         [
+            "C.4.13",
+            "table_C.4-13"
+         ]
+      ],
+      "name" : "Imaging Service Request Module"
+   },
+   "C.7.6.16.2.16" : {
+      "name" : "Frame Display Shutter",
+      "tbls" : [
+         [
+            "C.7.6.16.2.17",
+            "table_C.7.6.16-18"
+         ]
+      ]
+   },
+   "C.8.12.11" : {
+      "tbls" : [
+         [
+            "C.8.12.12",
+            "table_C.8.12.12-1"
+         ]
+      ],
+      "name" : "VL Photographic Acquisition Module"
+   },
+   "C.8.8.6" : {
+      "tbls" : [
+         [
+            "C.8.8.7",
+            "table_C.8-43"
+         ]
+      ],
+      "name" : "ROI Contour Module"
+   },
+   "C.7.6.8" : {
+      "tbls" : [
+         [
+            "C.7.6.9",
+            "table_C.7-15"
+         ]
+      ],
+      "name" : "Bi-plane Image Module (Retired)"
+   },
+   "C.8.12.8" : {
+      "name" : "Slide Label Module",
+      "tbls" : [
+         [
+            "C.8.12.9",
+            "table_C.8.12.9-1"
+         ]
+      ]
+   },
+   "C.8.9.3" : {
+      "tbls" : [
+         [
+            "C.8.9.4",
+            "table_C.8-63"
+         ]
+      ],
+      "name" : "PET Multi-gated Acquisition Module"
+   },
+   "C.29.1.2" : {
+      "name" : "Generic Implant Template 2D Drawings Module",
+      "tbls" : [
+         [
+            "C.29.1.3",
+            "table_C.29.1.3-1"
+         ]
+      ]
+   },
+   "C.32.1" : {
+      "name" : "Display System Module",
+      "tbls" : [
+         [
+            "C.32.2",
+            "table_C.32.2-1"
+         ]
+      ]
+   },
+   "C.37" : {
+      "tbls" : [
+         [
+            "F.3.1",
+            "table_F.3-1"
+         ],
+         [
+            "F.3.2.1",
+            "table_F.3-2"
+         ],
+         [
+            "F.3.2.2",
+            "table_F.3-3"
+         ],
+         [
+            "F.4",
+            "table_F.4-1"
+         ],
+         [
+            "F.5.1",
+            "table_F.5-1"
+         ],
+         [
+            "F.5.2",
+            "table_F.5-2"
+         ],
+         [
+            "F.5.3",
+            "table_F.5-3"
+         ],
+         [
+            "F.5.4",
+            "table_F.5-4"
+         ],
+         [
+            "F.5.19",
+            "table_F.5-19"
+         ],
+         [
+            "F.5.20",
+            "table_F.5-20"
+         ],
+         [
+            "F.5.21",
+            "table_F.5-21"
+         ],
+         [
+            "F.5.22",
+            "table_F.5-22"
+         ],
+         [
+            "F.5.23",
+            "table_F.5-23"
+         ],
+         [
+            "F.5.24",
+            "table_F.5-24"
+         ],
+         [
+            "F.5.25",
+            "table_F.5-25"
+         ],
+         [
+            "F.5.26",
+            "table_F.5-26"
+         ],
+         [
+            "F.5.27",
+            "table_F.5-27"
+         ],
+         [
+            "F.5.28",
+            "table_F.5-28"
+         ],
+         [
+            "F.5.29",
+            "table_F.5-29"
+         ],
+         [
+            "F.5.30",
+            "table_F.5-30"
+         ],
+         [
+            "F.5.31",
+            "table_F.5-31"
+         ],
+         [
+            "F.5.32",
+            "table_F.5-32"
+         ],
+         [
+            "F.5.34",
+            "table_F.5-34"
+         ],
+         [
+            "F.5.35",
+            "table_F.5-35"
+         ],
+         [
+            "F.5.36",
+            "table_F.5-36"
+         ],
+         [
+            "F.5.37",
+            "table_F.5-37"
+         ],
+         [
+            "F.5.38",
+            "table_F.5-38"
+         ],
+         [
+            "F.5.39",
+            "table_F.5-39"
+         ],
+         [
+            "F.5.40",
+            "table_F.5-40"
+         ],
+         [
+            "F.5.41",
+            "table_F.5-41"
+         ],
+         [
+            "F.5.42",
+            "table_F.5-42"
+         ],
+         [
+            "F.5.43",
+            "table_F.5-43"
+         ],
+         [
+            "F.5.44",
+            "table_F.5-44"
+         ],
+         [
+            "F.5.45",
+            "table_F.5-45"
+         ],
+         [
+            "F.5.46",
+            "table_F.5-46"
+         ],
+         [
+            "F.5.47",
+            "table_F.5-47"
+         ]
+      ],
+      "name" : "Annotation Modules"
+   },
+   "C.10.10" : {
+      "tbls" : [
+         [
+            "C.10.11",
+            "table_C.10-12"
+         ]
+      ],
+      "name" : "Waveform Annotation Module"
+   },
+   "C.36.2.1.4.1.1" : {
+      "name" : "Dosimetric Objective UID",
+      "tbls" : [
+         [
+            "C.36.2.1.4.1.2",
+            "table_C.36.2.1.4-2"
+         ]
+      ]
+   },
+   "C.30.2" : {
+      "name" : "Unified Procedure Step Scheduled Procedure Information Module",
+      "tbls" : [
+         [
+            "C.30.3",
+            "table_C.30.3-1"
+         ]
+      ]
+   },
+   "C.11.33" : {
+      "tbls" : [
+         [
+            "C.11.34",
+            "table_C.11.34.1-1"
+         ]
+      ],
+      "name" : "Advanced Blending Presentation State Module"
+   },
+   "C.8.17.1" : {
+      "name" : "Ophthalmic Photography Series Module",
+      "tbls" : [
+         [
+            "C.8.17.2",
+            "table_C.8.17.2-1"
+         ]
+      ]
+   },
+   "C.8.15.3.12" : {
+      "tbls" : [
+         [
+            "C.8.15.3.13",
+            "table_C.8.15.3.13-1"
+         ]
+      ],
+      "name" : "Multi-energy CT Characteristics Macro"
+   },
+   "C.32.2" : {
+      "tbls" : [
+         [
+            "C.32.3",
+            "table_C.32.3-1"
+         ],
+         [
+            "C.32.3.1",
+            "table_C.32.3.1-1"
+         ]
+      ],
+      "name" : "Target Luminance Characteristics Module"
+   },
+   "C.11.30" : {
+      "tbls" : [
+         [
+            "C.11.31",
+            "table_C.11.31-1"
+         ]
+      ],
+      "name" : "Volume Render Geometry Module"
+   },
+   "C.29.1" : {
+      "tbls" : [
+         [
+            "C.29.2.1",
+            "table_C.29.2-1"
+         ]
+      ],
+      "name" : "Generic Implant Template Modules"
+   },
+   "C.8.2.1" : {
+      "tbls" : [
+         [
+            "C.8.2.2",
+            "table_C.8.2.2-1"
+         ],
+         [
+            "C.8.2.2.1",
+            "table_C.8.2.2-2"
+         ]
+      ],
+      "name" : "CT Image Module"
+   },
+   "C.8.31.2" : {
+      "name" : "Breast X-Ray Positioner Macro",
+      "tbls" : [
+         [
+            "C.8.31.3",
+            "table_C.8.31.3-1"
+         ]
+      ]
+   },
+   "C.8.32.1" : {
+      "name" : "Parametric Map Series Module",
+      "tbls" : [
+         [
+            "C.8.32.2",
+            "table_PS3.3_C.8.32-2"
+         ]
+      ]
+   },
+   "C.11.1.1.2" : {
+      "tbls" : [
+         [
+            "C.11.1.1.2.1",
+            "table_C.11.1.1.2.1-1"
+         ]
+      ],
+      "name" : "Modality LUT and Rescale Type"
+   },
+   "C.8.21.5" : {
+      "tbls" : [
+         [
+            "C.8.21.6",
+            "table_C.8.21.6-1"
+         ],
+         [
+            "C.8.21.6.1.1",
+            "table_C.8.21.6-1a"
+         ],
+         [
+            "C.8.21.6.1.1",
+            "table_C.8.21.6-1b"
+         ],
+         [
+            "C.8.21.6.1.1",
+            "table_C.8.21.6-1c"
+         ]
+      ],
+      "name" : "X-Ray 3D Image Functional Group Macros"
+   },
+   "C.7.4" : {
+      "tbls" : [
+         [
+            "C.7.5.1",
+            "table_C.7-8"
+         ]
+      ],
+      "name" : "Common Frame of Reference Information Entity Modules"
+   },
+   "C.8.4.6" : {
+      "tbls" : [
+         [
+            "C.8.4.7",
+            "table_C.8-6"
+         ]
+      ],
+      "name" : "NM/PET Patient Orientation Module"
+   },
+   "C.8.13.5.5" : {
+      "name" : "MR Modifier Macro",
+      "tbls" : [
+         [
+            "C.8.13.5.6",
+            "table_C.8-93"
+         ]
+      ]
+   },
+   "C.36.1" : {
+      "name" : "RT Second Generation Concepts",
+      "tbls" : [
+         [
+            "C.36.2.1.1",
+            "table_C.36.2.1.1-1"
+         ]
+      ]
+   },
+   "C.36.10" : {
+      "name" : "RT Radiation Set Module",
+      "tbls" : [
+         [
+            "C.36.11",
+            "table_C.36.11-1"
+         ]
+      ]
+   },
+   "C.8.14.5.1.3" : {
+      "name" : "Volume Based Calculation Technique Attribute",
+      "tbls" : [
+         [
+            "C.8.14.5.1.4",
+            "table_C.8-111"
+         ]
+      ]
+   },
+   "C.34.4" : {
+      "name" : "Clinical Trial Context Module",
+      "tbls" : [
+         [
+            "C.34.5",
+            "table_C.34.5-1"
+         ]
+      ]
+   },
+   "C.8.13.5.1" : {
+      "name" : "MR Image Frame Type Macro",
+      "tbls" : [
+         [
+            "C.8.13.5.2",
+            "table_C.8-89"
+         ]
+      ]
+   },
+   "C.11.12" : {
+      "tbls" : [
+         [
+            "C.11.13",
+            "table_C.11.13-1"
+         ]
+      ],
+      "name" : "Presentation State Shutter Module"
+   },
+   "C.8.8.3" : {
+      "name" : "RT Dose Module",
+      "tbls" : [
+         [
+            "C.8.8.4",
+            "table_C.8-40"
+         ]
+      ]
+   },
+   "C.26" : {
+      "name" : "Substance Administration Modules",
+      "tbls" : [
+         [
+            "C.27.1",
+            "table_C.27-1"
+         ]
+      ]
+   },
+   "C.8.24.3" : {
+      "tbls" : [
+         [
+            "C.8.24.4",
+            "table_C.8.24.4-1"
+         ]
+      ],
+      "name" : "Enhanced US Image Module"
+   },
+   "C.8.27" : {
+      "tbls" : [
+         [
+            "C.8.28.1",
+            "table_C.8.28.1-1"
+         ]
+      ],
+      "name" : "Intravascular Optical Coherence Tomography Modules"
+   },
+   "C.8.14.3.1" : {
+      "tbls" : [
+         [
+            "C.8.14.3.2",
+            "table_C.8-105"
+         ]
+      ],
+      "name" : "MR Spectroscopy Frame Type Macro"
+   },
+   "C.7.6.16.2.10" : {
+      "tbls" : [
+         [
+            "C.7.6.16.2.10b",
+            "table_C.7.6.16-11b"
+         ]
+      ],
+      "name" : "Frame VOI LUT Macro"
+   },
+   "C.8.15.3.6" : {
+      "name" : "CT Geometry Macro",
+      "tbls" : [
+         [
+            "C.8.15.3.7",
+            "table_C.8-123"
+         ]
+      ]
+   },
+   "C.36.11" : {
+      "tbls" : [
+         [
+            "C.36.12",
+            "table_C.36.12-1"
+         ]
+      ],
+      "name" : "RT Dose Contribution Module"
+   },
+   "C.8.15.2" : {
+      "tbls" : [
+         [
+            "C.8.15.3.1",
+            "table_C.8-117"
+         ]
+      ],
+      "name" : "Enhanced CT Image Module"
+   },
+   "C.8.14.5.1.4" : {
+      "name" : "Complex Image Component",
+      "tbls" : [
+         [
+            "C.8.14.5.1.5",
+            "table_C.8-112"
+         ]
+      ]
+   },
+   "C.8.14.5.1.1.2" : {
+      "name" : "Patient Examination Characteristics",
+      "tbls" : [
+         [
+            "C.8.14.5.1.1.3",
+            "table_C.8-108"
+         ]
+      ]
+   },
+   "C.8.5.4" : {
+      "tbls" : [
+         [
+            "C.8.5.5",
+            "table_C.8-17"
+         ]
+      ],
+      "name" : "US Frame of Reference Module"
+   },
+   "C.7.6.16.2.25" : {
+      "name" : "Unassigned Shared and Per-frame Converted Attributes Macros",
+      "tbls" : [
+         [
+            "C.7.6.16.2.26",
+            "table_C.7.6.16.2.26-1"
+         ]
+      ]
+   },
+   "C.10.3" : {
+      "tbls" : [
+         [
+            "C.10.4",
+            "table_C.10-4"
+         ]
+      ],
+      "name" : "Audio Module (Retired)"
+   },
+   "C.8.19.6.12" : {
+      "name" : "X-Ray Collimator Macro",
+      "tbls" : [
+         [
+            "C.8.19.6.13",
+            "table_C.8.19.6-13"
+         ]
+      ]
+   },
+   "C.36.9" : {
+      "name" : "Segment Reference Module",
+      "tbls" : [
+         [
+            "C.36.10",
+            "table_C.36.10-1"
+         ]
+      ]
+   },
+   "C.36.6.1.1" : {
+      "name" : "Therapeutic Role Type Code Sequence",
+      "tbls" : [
+         [
+            "C.36.6.1.2",
+            "table_C.36.6-3"
+         ]
+      ]
+   },
+   "C.8.21.3.1.1" : {
+      "name" : "X-Ray 3D General Shared Acquisition Macro",
+      "tbls" : [
+         [
+            "C.8.21.3.1.2",
+            "table_C.8.21.3.1.2-1"
+         ]
+      ]
+   },
+   "C.13.4" : {
+      "name" : "Basic Film Box Relationship Module",
+      "tbls" : [
+         [
+            "C.13.5",
+            "table_C.13-5"
+         ]
+      ]
+   },
+   "C.8.24.2" : {
+      "name" : "Ultrasound Frame of Reference Module",
+      "tbls" : [
+         [
+            "C.8.24.3",
+            "table_C.8.24.3-1"
+         ]
+      ]
+   },
+   "C.8.25.16.2" : {
+      "tbls" : [
+         [
+            "C.8.25.16.3",
+            "table_C.8.25.16-3"
+         ]
+      ],
+      "name" : "Intraocular Lens Calculations Macro"
+   },
+   "C.7.6.20" : {
+      "name" : "Patient Orientation Module",
+      "tbls" : [
+         [
+            "C.7.6.21",
+            "table_C.7.6.21-1"
+         ]
+      ]
+   },
+   "C.23.2" : {
+      "tbls" : [
+         [
+            "C.23.3",
+            "table_C.23.3-1"
+         ]
+      ],
+      "name" : "Hanging Protocol Environment Module"
+   },
+   "C.19" : {
+      "tbls" : [
+         [
+            "C.20.1",
+            "table_C.20.1-1"
+         ]
+      ],
+      "name" : "Raw Data Specific Modules"
+   },
+   "C.26.1" : {
+      "name" : "Product Characteristics Module",
+      "tbls" : [
+         [
+            "C.26.2",
+            "table_C.26-2"
+         ]
+      ]
+   },
+   "C.8.4.12" : {
+      "tbls" : [
+         [
+            "C.8.4.13",
+            "table_C.8-13"
+         ]
+      ],
+      "name" : "NM Tomo Acquisition Module"
+   },
+   "C.32.3.2" : {
+      "name" : "Visual Evaluation Result Macro",
+      "tbls" : [
+         [
+            "C.32.3.3",
+            "table_C.32.3.3-1"
+         ]
+      ]
+   },
+   "C.11.16" : {
+      "tbls" : [
+         [
+            "C.11.17",
+            "table_C.11.17-1"
+         ]
+      ],
+      "name" : "Structured Display Module"
+   },
+   "C.3.2" : {
+      "tbls" : [
+         [
+            "C.3.3",
+            "table_C.3-3"
+         ]
+      ],
+      "name" : "Visit Identification Module"
+   },
+   "C.8.15.3" : {
+      "tbls" : [
+         [
+            "C.8.15.4",
+            "table_C.8.15.4-1"
+         ]
+      ],
+      "name" : "Enhanced CT Image Functional Group Macros"
+   },
+   "C.8.25.6" : {
+      "tbls" : [
+         [
+            "C.8.25.7",
+            "table_C.8.25.7-1"
+         ]
+      ],
+      "name" : "General Ophthalmic Refractive Macros"
+   },
+   "C.8.25.14" : {
+      "name" : "Ophthalmic Axial Measurements Module",
+      "tbls" : [
+         [
+            "C.8.25.15",
+            "table_C.8.25.15-1"
+         ]
+      ]
+   },
+   "C.8.13.5.14" : {
+      "name" : "MR Arterial Spin Labeling Macro",
+      "tbls" : [
+         [
+            "C.8.13.5.15",
+            "table_C.8-100c"
+         ]
+      ]
+   },
+   "C.28" : {
+      "tbls" : [
+         [
+            "C.29.1.1",
+            "table_C.29.1.1-1"
+         ]
+      ],
+      "name" : "Color Palette Modules"
+   },
+   "C.12.1.1.1" : {
+      "name" : "SOP Class UID, SOP Instance UID",
+      "tbls" : [
+         [
+            "C.12.1.1.2",
+            "table_C.12-2"
+         ],
+         [
+            "C.12.1.1.2",
+            "table_C.12-3"
+         ],
+         [
+            "C.12.1.1.2",
+            "table_C.12-4"
+         ],
+         [
+            "C.12.1.1.2",
+            "table_C.12-5"
+         ]
+      ]
+   },
+   "C.7.6.16.2.14" : {
+      "tbls" : [
+         [
+            "C.7.6.16.2.15",
+            "table_C.7.6.16-16"
+         ]
+      ],
+      "name" : "Frame Pixel Shift Macro"
+   },
+   "C.7.6.18.2" : {
+      "tbls" : [
+         [
+            "C.7.6.18.3",
+            "table_C.7.6.18-3"
+         ]
+      ],
+      "name" : "Respiratory Synchronization Module"
+   },
+   "C.10.5.1.3.11" : {
+      "name" : "Arrows",
+      "tbls" : [
+         [
+            "C.10.5.1.3.12",
+            "table_C.10-5a"
+         ]
+      ]
+   },
+   "C.10.6" : {
+      "tbls" : [
+         [
+            "C.10.7",
+            "table_C.10-7"
+         ]
+      ],
+      "name" : "Spatial Transformation Module"
+   },
+   "C.8.16" : {
+      "name" : "Common CT, MR and US Descriptions",
+      "tbls" : [
+         [
+            "C.8.17.1",
+            "table_C.8.17.1-1"
+         ]
+      ]
+   },
+   "C.37.1.1" : {
+      "name" : "Microscopy Bulk Simple Annotations Series Module",
+      "tbls" : [
+         [
+            "C.37.1.2",
+            "table_C.37.1-2"
+         ]
+      ]
+   },
+   "C.32" : {
+      "name" : "Display System Modules",
+      "tbls" : [
+         [
+            "C.33.1",
+            "table_C.33.1-1"
+         ]
+      ]
+   },
+   "C.8.17.15" : {
+      "tbls" : [
+         [
+            "C.8.17.16",
+            "table_C.8.17.16-1"
+         ]
+      ],
+      "name" : "Ophthalmic Optical Coherence Tomography En Face Image Quality Rating Module"
+   },
+   "C.23.1" : {
+      "tbls" : [
+         [
+            "C.23.2",
+            "table_C.23.2-1"
+         ],
+         [
+            "C.23.2",
+            "table_C.23.2-2"
+         ]
+      ],
+      "name" : "Hanging Protocol Definition Module"
+   },
+   "C.18.2" : {
+      "tbls" : [
+         [
+            "C.18.3",
+            "table_C.18.3-1"
+         ]
+      ],
+      "name" : "Code Macro"
+   },
+   "C.8.13.5.8" : {
+      "name" : "MR Transmit Coil Macro",
+      "tbls" : [
+         [
+            "C.8.13.5.9",
+            "table_C.8-96"
+         ]
+      ]
+   },
+   "C.8.8.10" : {
+      "tbls" : [
+         [
+            "C.8.8.11",
+            "table_C.8-47"
+         ]
+      ],
+      "name" : "RT Prescription Module"
+   },
+   "C.11.19" : {
+      "tbls" : [
+         [
+            "C.11.20",
+            "table_C.11.20-1"
+         ]
+      ],
+      "name" : "XA/XRF Presentation State Mask Module"
+   },
+   "C.7.6.1" : {
+      "name" : "General Image Module",
+      "tbls" : [
+         [
+            "C.7.6.2",
+            "table_C.7-10"
+         ]
+      ]
+   },
+   "C.30.1" : {
+      "name" : "Unified Procedure Step Progress Information Module",
+      "tbls" : [
+         [
+            "C.30.2",
+            "table_C.30.2-1"
+         ]
+      ]
+   },
+   "C.7.9.1" : {
+      "name" : "Palette Color Lookup Table UID",
+      "tbls" : [
+         [
+            "C.7.9.2",
+            "table_C.7-23"
+         ],
+         [
+            "C.7.9.2",
+            "table_C.7-24"
+         ],
+         [
+            "C.7.9.2.1",
+            "table_C.7-25"
+         ]
+      ]
+   },
+   "C.8.25.16.5" : {
+      "tbls" : [
+         [
+            "C.8.25.16.6",
+            "table_C.8.25.16-6"
+         ]
+      ],
+      "name" : "Calculated IOL Macro"
+   },
+   "C.8.19.5" : {
+      "tbls" : [
+         [
+            "C.8.19.6.1",
+            "table_C.8.19.6-1"
+         ]
+      ],
+      "name" : "X-Ray Detector Module"
+   },
+   "C.7.6.16.2.21" : {
+      "tbls" : [
+         [
+            "C.7.6.16.2.22",
+            "table_C.7.6.16.2.22-1"
+         ]
+      ],
+      "name" : "Plane Position (Volume) Macro"
+   },
+   "C.7.6.26" : {
+      "name" : "Real-Time Bulk Data Flow Module",
+      "tbls" : [
+         [
+            "C.7.6.27",
+            "table_C.7.6.27-1"
+         ]
+      ]
+   },
+   "C.30" : {
+      "tbls" : [
+         [
+            "C.31.1",
+            "table_C.31-1"
+         ]
+      ],
+      "name" : "Unified Procedure Step Specific Modules"
+   },
+   "C.8.25.9" : {
+      "name" : "Autorefraction Measurements Module",
+      "tbls" : [
+         [
+            "C.8.25.10",
+            "table_C.8.25.10-1"
+         ],
+         [
+            "C.8.25.10",
+            "table_C.8.25.10-2"
+         ]
+      ]
+   },
+   "C.8.13.5.7" : {
+      "tbls" : [
+         [
+            "C.8.13.5.8",
+            "table_C.8-95"
+         ]
+      ],
+      "name" : "MR Receive Coil Macro"
+   },
+   "C.8.15.2.1.1.3" : {
+      "tbls" : [
+         [
+            "C.8.15.2.1.1.4",
+            "table_C.8-116"
+         ]
+      ],
+      "name" : "Image Flavor"
+   },
+   "C.8.19.6.2" : {
+      "tbls" : [
+         [
+            "C.8.19.6.3",
+            "table_C.8.19.6-3"
+         ]
+      ],
+      "name" : "X-Ray Field of View Macro"
+   },
+   "C.13.6" : {
+      "tbls" : [
+         [
+            "C.13.7",
+            "table_C.13-7"
+         ]
+      ],
+      "name" : "Image Box Relationship Module (Retired)"
+   },
+   "C.8.8.8" : {
+      "tbls" : [
+         [
+            "C.8.8.9",
+            "table_C.8-45"
+         ]
+      ],
+      "name" : "RT ROI Observations Module"
+   },
+   "C.8.11.6" : {
+      "name" : "Mammography Series Module",
+      "tbls" : [
+         [
+            "C.8.11.7",
+            "table_C.8-74"
+         ]
+      ]
+   },
+   "C.8.27.6.1" : {
+      "tbls" : [
+         [
+            "C.8.27.6.2",
+            "table_C.8.27.6.2-1"
+         ]
+      ],
+      "name" : "Intravascular OCT Frame Type Macro"
+   },
+   "C.11.17" : {
+      "tbls" : [
+         [
+            "C.11.18",
+            "table_C.11.18-1"
+         ]
+      ],
+      "name" : "Structured Display Image Box Module"
+   },
+   "C.8.7" : {
+      "tbls" : [
+         [
+            "C.8.8.1",
+            "table_C.8-37"
+         ]
+      ],
+      "name" : "X-Ray Modules"
+   },
+   "C.7.6.23" : {
+      "tbls" : [
+         [
+            "C.7.6.24",
+            "table_PS3.3_C.7.6.24-1"
+         ]
+      ],
+      "name" : "Enhanced Palette Color Lookup Table Module"
+   },
+   "C.8.28" : {
+      "name" : "Ophthalmic Thickness Map Modules",
+      "tbls" : [
+         [
+            "C.8.29.1",
+            "table_C.8.29-1"
+         ]
+      ]
+   },
+   "C.13.3" : {
+      "name" : "Basic Film Box Presentation Module",
+      "tbls" : [
+         [
+            "C.13.4",
+            "table_C.13-4"
+         ]
+      ]
+   },
+   "C.8.15.3.11" : {
+      "name" : "CT Additional X-Ray Source Macro",
+      "tbls" : [
+         [
+            "C.8.15.3.12",
+            "table_C.8.15.3.12-1"
+         ]
+      ]
+   },
+   "C.8.1.1" : {
+      "tbls" : [
+         [
+            "C.8.1.2",
+            "table_C.8-2"
+         ]
+      ],
+      "name" : "CR Series Module"
+   },
+   "C.8.8.26" : {
+      "name" : "RT Ion Beams Session Record Module",
+      "tbls" : [
+         [
+            "C.8.8.27",
+            "table_C.8.8.27-1"
+         ]
+      ]
+   },
+   "C.36" : {
+      "tbls" : [
+         [
+            "C.37.1.1",
+            "table_C.37.1-1"
+         ]
+      ],
+      "name" : "RT Second Generation Modules"
+   },
+   "C.34.12" : {
+      "name" : "Performed CT Reconstruction Module",
+      "tbls" : [
+         [
+            "C.34.13",
+            "table_C.34.13-1"
+         ]
+      ]
+   },
+   "C.8.6" : {
+      "tbls" : [
+         [
+            "C.8.7.1",
+            "table_C.8-26"
+         ]
+      ],
+      "name" : "Secondary Capture Modules"
+   },
+   "C.8.8.11" : {
+      "tbls" : [
+         [
+            "C.8.8.12",
+            "table_C.8-48"
+         ]
+      ],
+      "name" : "RT Tolerance Tables Module"
+   },
+   "C.8.25.10" : {
+      "tbls" : [
+         [
+            "C.8.25.11",
+            "table_C.8.25.11-1"
+         ],
+         [
+            "C.8.25.11",
+            "table_C.8.25.11-2"
+         ]
+      ],
+      "name" : "Keratometry Measurements Module"
+   },
+   "C.21" : {
+      "name" : "Spatial Fiducials",
+      "tbls" : [
+         [
+            "C.22.1",
+            "table_C.22.1-1"
+         ]
+      ]
+   },
+   "C.8.12.5" : {
+      "tbls" : [
+         [
+            "C.8.12.6.1",
+            "table_C.8.12.6.1-1"
+         ]
+      ],
+      "name" : "Optical Path Module"
+   },
+   "C.8.22" : {
+      "tbls" : [
+         [
+            "C.8.23.1",
+            "table_C.8.23-1"
+         ]
+      ],
+      "name" : "Enhanced PET Modules"
+   },
+   "C.4.22" : {
+      "tbls" : [
+         [
+            "C.4.23",
+            "table_C.4.23-1"
+         ]
+      ],
+      "name" : "General Purpose Results (Retired)"
+   },
+   "C.8.23" : {
+      "name" : "Surface Segmentation",
+      "tbls" : [
+         [
+            "C.8.24.1",
+            "table_C.8.24.1-1"
+         ]
+      ]
+   },
+   "C.8.25.16.1" : {
+      "tbls" : [
+         [
+            "C.8.25.16.2",
+            "table_C.8.25.16-2"
+         ]
+      ],
+      "name" : "Intraocular Lens Calculations Module Attributes"
+   },
+   "C.8.18" : {
+      "name" : "Stereometric Modules",
+      "tbls" : [
+         [
+            "C.8.19.1",
+            "table_C.8.19.1-1"
+         ]
+      ]
+   },
+   "C.30.3" : {
+      "name" : "Unified Procedure Step Performed Procedure Information Module",
+      "tbls" : [
+         [
+            "C.30.4",
+            "table_C.30.4-1"
+         ]
+      ]
+   },
+   "C.8.25.4" : {
+      "tbls" : [
+         [
+            "C.8.25.5",
+            "table_C.8.25.5-1"
+         ]
+      ],
+      "name" : "Subjective Refraction Measurements Series Module"
+   },
+   "C.18.9" : {
+      "name" : "3D Spatial Coordinates Macro",
+      "tbls" : [
+         [
+            "C.18.10",
+            "table_C.18.10-1"
+         ]
+      ]
+   },
+   "C.7.5.1" : {
+      "tbls" : [
+         [
+            "C.7.5.2",
+            "table_C.7-8b"
+         ]
+      ],
+      "name" : "General Equipment Module"
+   },
+   "C.8.17.16" : {
+      "name" : "Ophthalmic Optical Coherence Tomography B-scan Volume Analysis Image Module",
+      "tbls" : [
+         [
+            "C.8.17.17",
+            "table_C.8.17.17-1"
+         ]
+      ]
+   },
+   "C.34.9" : {
+      "tbls" : [
+         [
+            "C.34.10",
+            "table_C.34.10-1"
+         ]
+      ],
+      "name" : "General Defined Acquisition Module"
+   },
+   "C.8.24" : {
+      "tbls" : [
+         [
+            "C.8.25.1",
+            "table_C.8.25.1-1"
+         ]
+      ],
+      "name" : "Enhanced US Volume Modules and Functional Group Macros"
+   },
+   "C.11.33.1.1" : {
+      "tbls" : [
+         [
+            "C.11.33.1.2",
+            "table_C.11.33.1-1"
+         ]
+      ],
+      "name" : "Advanced Blending Sequence"
+   },
+   "C.8.11.5" : {
+      "name" : "DX Positioning Module",
+      "tbls" : [
+         [
+            "C.8.11.6",
+            "table_C.8-73"
+         ]
+      ]
+   },
+   "C.36.23" : {
+      "name" : "RT Radiation Salvage Record Module",
+      "tbls" : [
+         [
+            "C.36.24",
+            "table_C.36.24-1"
+         ]
+      ]
+   },
+   "C.8.8.21" : {
+      "tbls" : [
+         [
+            "C.8.8.22",
+            "table_C.8-58"
+         ]
+      ],
+      "name" : "RT Beams Session Record Module"
+   },
+   "C.8.5.5" : {
+      "tbls" : [
+         [
+            "C.8.5.6",
+            "table_C.8-18"
+         ]
+      ],
+      "name" : "US Region Calibration Module"
+   },
+   "C.8.20.3" : {
+      "name" : "Segmentation Functional Group Macros",
+      "tbls" : [
+         [
+            "C.8.20.4.1",
+            "table_C.8.20-4"
+         ]
+      ]
+   },
+   "C.36.22" : {
+      "tbls" : [
+         [
+            "C.36.23",
+            "table_C.36.23-1"
+         ],
+         [
+            "C.36.23.1.1",
+            "table_C.36.23-2"
+         ]
+      ],
+      "name" : "RT Radiation Record Common Module"
+   },
+   "C.8.21.3" : {
+      "name" : "X-Ray 3D Acquisition Modules",
+      "tbls" : [
+         [
+            "C.8.21.4",
+            "table_C.8.21.4-1"
+         ]
+      ]
+   },
+   "C.8.25.16.6" : {
+      "tbls" : [
+         [
+            "C.8.25.16.7",
+            "table_C.8.25.16-7"
+         ]
+      ],
+      "name" : "Ophthalmic Axial Measurements Quality Image SOP Instance Reference Macro"
+   },
+   "C.36.4" : {
+      "name" : "Radiotherapy Common Instance Module",
+      "tbls" : [
+         [
+            "C.36.5",
+            "table_C.36.5-1"
+         ]
+      ]
+   },
+   "C.7.6.16.2.22" : {
+      "tbls" : [
+         [
+            "C.7.6.16.2.23",
+            "table_C.7.6.16.2.23-1"
+         ]
+      ],
+      "name" : "Plane Orientation (Volume) Macro"
+   },
+   "C.8.12.6.2" : {
+      "tbls" : [
+         [
+            "C.8.12.6.3",
+            "table_C.8.12.6.3-1"
+         ]
+      ],
+      "name" : "Optical Path Identification Macro"
+   },
+   "C.8.19.6.1" : {
+      "name" : "X-Ray Frame Characteristics Macro",
+      "tbls" : [
+         [
+            "C.8.19.6.2",
+            "table_C.8.19.6-2"
+         ]
+      ]
+   },
+   "C.1" : {
+      "tbls" : [
+         [
+            "C.2.1",
+            "table_C.2-1"
+         ]
+      ],
+      "name" : "Elements of a Module Definition"
+   },
+   "C.7.6.16.2.25.2" : {
+      "name" : "Unassigned Per-Frame Converted Attributes Macro",
+      "tbls" : [
+         [
+            "C.7.6.16.2.25.3",
+            "table_C.7.6.16.2.25.3-1"
+         ]
+      ]
+   },
+   "C.11.32" : {
+      "tbls" : [
+         [
+            "C.11.33.1",
+            "table_C.11.33-1"
+         ]
+      ],
+      "name" : "Render Display Module"
+   },
+   "C.17.2.3" : {
+      "tbls" : [
+         [
+            "C.17.2.4",
+            "table_C.17-3b"
+         ]
+      ],
+      "name" : "Current Requested Procedure Evidence Sequence and Pertinent Other Evidence Sequence"
+   },
+   "C.24.1" : {
+      "name" : "Encapsulated Document Series Module",
+      "tbls" : [
+         [
+            "C.24.2",
+            "table_C.24-2"
+         ]
+      ]
+   },
+   "C.8.19.6.11" : {
+      "name" : "X-Ray Table Position Macro",
+      "tbls" : [
+         [
+            "C.8.19.6.12",
+            "table_C.8.19.6-12"
+         ]
+      ]
+   },
+   "C.7.6.16.2.13" : {
+      "name" : "Pixel Intensity Relationship LUT Macro",
+      "tbls" : [
+         [
+            "C.7.6.16.2.14",
+            "table_C.7.6.16-15"
+         ]
+      ]
+   },
+   "C.8.21.4" : {
+      "name" : "X-Ray 3D Reconstruction Module",
+      "tbls" : [
+         [
+            "C.8.21.5.1",
+            "table_C.8.21.5.1-1"
+         ]
+      ]
+   },
+   "C.8.25.6.1" : {
+      "name" : "Cylinder Sequence Macro",
+      "tbls" : [
+         [
+            "C.8.25.6.2",
+            "table_C.8.25.6.2-1"
+         ]
+      ]
+   },
+   "C.8.17.10" : {
+      "name" : "Ophthalmic Tomography Functional Group Macros",
+      "tbls" : [
+         [
+            "C.8.17.11",
+            "table_C.8.17.11-1"
+         ]
+      ]
+   },
+   "C.8.15.1" : {
+      "tbls" : [
+         [
+            "C.8.15.2",
+            "table_C.8-114"
+         ]
+      ],
+      "name" : "CT Series Module"
+   },
+   "C.36.2.1.1" : {
+      "name" : "Radiation Fraction Pattern Macro",
+      "tbls" : [
+         [
+            "C.36.2.1.2",
+            "table_C.36.2.1.2-1"
+         ]
+      ]
+   },
+   "C.7.6.16.2.6" : {
+      "tbls" : [
+         [
+            "C.7.6.16.2.7",
+            "table_C.7.6.16-8"
+         ]
+      ],
+      "name" : "Derivation Image Macro"
+   },
+   "C.8.8.1" : {
+      "name" : "RT Series Module",
+      "tbls" : [
+         [
+            "C.8.8.2",
+            "table_C.8-38"
+         ]
+      ]
+   },
+   "C.16" : {
+      "name" : "Stored Print Specific Modules",
+      "tbls" : [
+         [
+            "C.17.1",
+            "table_C.17-1"
+         ]
+      ]
+   },
+   "C.8.16.2.1.2" : {
+      "name" : "Volumetric Properties",
+      "tbls" : [
+         [
+            "C.8.16.2.1.3",
+            "table_C.8-134"
+         ]
+      ]
+   },
+   "C.8.14.3" : {
+      "tbls" : [
+         [
+            "C.8.14.4",
+            "table_C.8-106"
+         ]
+      ],
+      "name" : "MR Spectroscopy Functional Group Macros"
+   },
+   "C.7.6.16.2.28" : {
+      "tbls" : [
+         [
+            "C.7.6.16.2.29",
+            "table_C.7.6.16.2.29-1"
+         ]
+      ],
+      "name" : "Camera Position Macro"
+   },
+   "C.8.21" : {
+      "tbls" : [
+         [
+            "C.8.22.1",
+            "table_C.8.22-1"
+         ]
+      ],
+      "name" : "X-Ray 3D"
+   },
+   "C.36.25.1.1" : {
+      "tbls" : [
+         [
+            "C.36.25.1.2",
+            "table_C.36.25-2"
+         ]
+      ],
+      "name" : "Treatment Preparation Instruction Description"
+   },
+   "C.10" : {
+      "name" : "Curve, Graphic and Waveform",
+      "tbls" : [
+         [
+            "C.11.1",
+            "table_C.11-1"
+         ],
+         [
+            "C.11.1",
+            "table_C.11-1b"
+         ]
+      ]
+   },
+   "C.11.11" : {
+      "tbls" : [
+         [
+            "C.11.12",
+            "table_C.11.12-1"
+         ]
+      ],
+      "name" : "Presentation State Relationship Module"
+   },
+   "C.8.4.13" : {
+      "tbls" : [
+         [
+            "C.8.4.14",
+            "table_C.8-14"
+         ]
+      ],
+      "name" : "NM Multi-gated Acquisition Module"
+   },
+   "C.8.16.1" : {
+      "tbls" : [
+         [
+            "C.8.16.2",
+            "table_C.8-131"
+         ],
+         [
+            "C.8.16.2.1.1",
+            "table_C.8-132"
+         ]
+      ],
+      "name" : "Image Type and Frame Type"
+   },
+   "C.8.8.29" : {
+      "tbls" : [
+         [
+            "C.8.8.30",
+            "table_C.8.8.30-1"
+         ]
+      ],
+      "name" : "RT Beams Delivery Instruction Module"
+   },
+   "C.17.1" : {
+      "tbls" : [
+         [
+            "C.17.2",
+            "table_C.17-2"
+         ],
+         [
+            "C.17.2.1",
+            "table_C.17-3"
+         ],
+         [
+            "C.17.2.1",
+            "table_C.17-3a"
+         ]
+      ],
+      "name" : "SR Document Series Module"
+   },
+   "C.8.13.1.1.1.2" : {
+      "name" : "Patient Examination Characteristics",
+      "tbls" : [
+         [
+            "C.8.13.1.1.1.3",
+            "table_C.8-80"
+         ]
+      ]
+   },
+   "C.29.1.3" : {
+      "name" : "Generic Implant Template 3D Models Module",
+      "tbls" : [
+         [
+            "C.29.1.4",
+            "table_C.29.1.4-1"
+         ]
+      ]
+   },
+   "C.8.25.13" : {
+      "name" : "Ophthalmic Axial Measurements Series Module",
+      "tbls" : [
+         [
+            "C.8.25.14",
+            "table_C.8.25.14-1"
+         ],
+         [
+            "C.8.25.14.1",
+            "table_C.8.25.14-2"
+         ]
+      ]
+   },
+   "C.8.16.2.1.1" : {
+      "tbls" : [
+         [
+            "C.8.16.2.1.2",
+            "table_C.8-133"
+         ]
+      ],
+      "name" : "Pixel Presentation"
+   },
+   "C.12.1.1.2" : {
+      "name" : "Specific Character Set",
+      "tbls" : [
+         [
+            "C.12.1.1.3",
+            "table_C.12-6"
+         ]
+      ]
+   },
+   "C.7" : {
+      "name" : "Common Composite Image IOD Modules",
+      "tbls" : [
+         [
+            "C.8.1.1",
+            "table_C.8-1"
+         ]
+      ]
+   },
+   "C.8.17.6" : {
+      "tbls" : [
+         [
+            "C.8.17.7",
+            "table_C.8.17.7-1"
+         ]
+      ],
+      "name" : "Ophthalmic Tomography Series Module"
+   },
+   "C.4.10" : {
+      "tbls" : [
+         [
+            "C.4.11",
+            "table_C.4-11"
+         ]
+      ],
+      "name" : "Scheduled Procedure Step Module"
+   },
+   "C.8.22.5.1" : {
+      "tbls" : [
+         [
+            "C.8.22.5.2",
+            "table_C.8.22-11"
+         ]
+      ],
+      "name" : "PET Frame Type Macro"
+   },
+   "C.7.2" : {
+      "name" : "Common Study IE Modules",
+      "tbls" : [
+         [
+            "C.7.3.1",
+            "table_C.7-5a"
+         ]
+      ]
+   },
+   "C.8.9.1" : {
+      "name" : "PET Series Module",
+      "tbls" : [
+         [
+            "C.8.9.2",
+            "table_C.8-61"
+         ]
+      ]
+   },
+   "C.10.5" : {
+      "tbls" : [
+         [
+            "C.10.6",
+            "table_C.10-6"
+         ]
+      ],
+      "name" : "Graphic Annotation Module"
+   },
+   "C.8.7.9" : {
+      "tbls" : [
+         [
+            "C.8.7.10",
+            "table_C.8-35"
+         ],
+         [
+            "C.8.7.10",
+            "table_C.8-35a"
+         ]
+      ],
+      "name" : "X-Ray Generation Module"
+   },
+   "C.36.2" : {
+      "tbls" : [
+         [
+            "C.36.3",
+            "table_C.36.3-1"
+         ]
+      ],
+      "name" : "RT Second Generation Macros"
+   },
+   "C.8.15.3.10" : {
+      "name" : "CT Pixel Value Transformation Macro",
+      "tbls" : [
+         [
+            "C.8.15.3.11",
+            "table_C.8-126b"
+         ]
+      ]
+   },
+   "C.8.21.1" : {
+      "name" : "X-Ray 3D Image Module",
+      "tbls" : [
+         [
+            "C.8.21.2.1",
+            "table_C.8.21.2.1-1"
+         ]
+      ]
+   },
+   "C.8.2.2.2" : {
+      "name" : "Multi-energy CT X-Ray Detector Macro",
+      "tbls" : [
+         [
+            "C.8.2.2.3",
+            "table_C.8.2.2-4"
+         ]
+      ]
+   },
+   "C.23" : {
+      "tbls" : [
+         [
+            "C.24.1",
+            "table_C.24-1"
+         ]
+      ],
+      "name" : "Hanging Protocol Specific Modules"
+   },
+   "C.7.6.12" : {
+      "tbls" : [
+         [
+            "C.7.6.13",
+            "table_C.7-19"
+         ]
+      ],
+      "name" : "Device Module"
+   },
+   "C.8.27.2.1" : {
+      "tbls" : [
+         [
+            "C.8.27.2.2",
+            "table_C.8.27.2-3"
+         ]
+      ],
+      "name" : "Image Type and Frame Type"
+   },
+   "C.8.12.7" : {
+      "tbls" : [
+         [
+            "C.8.12.8",
+            "table_C.8.12.8-1"
+         ]
+      ],
+      "name" : "Multi-Resolution Navigation Module"
+   },
+   "C.11.14" : {
+      "tbls" : [
+         [
+            "C.11.15",
+            "table_C.11.15-1"
+         ]
+      ],
+      "name" : "Presentation State Blending Module"
+   },
+   "C.8.11.2" : {
+      "name" : "DX Anatomy Imaged Module",
+      "tbls" : [
+         [
+            "C.8.11.3",
+            "table_C.8-70"
+         ]
+      ]
+   },
+   "C.8.17.17" : {
+      "tbls" : [
+         [
+            "C.8.17.18",
+            "table_C.8.17.18-1"
+         ]
+      ],
+      "name" : "Ophthalmic Tomography En Face Series Module"
+   },
+   "C.8.7.10" : {
+      "name" : "X-Ray Filtration Module",
+      "tbls" : [
+         [
+            "C.8.7.11",
+            "table_C.8-36"
+         ],
+         [
+            "C.8.7.11",
+            "table_C.8-36b"
+         ]
+      ]
+   },
+   "C.31.1" : {
+      "name" : "RT General Machine Verification Module",
+      "tbls" : [
+         [
+            "C.31.2",
+            "table_C.31-2"
+         ]
+      ]
+   },
+   "C.8.17" : {
+      "tbls" : [
+         [
+            "C.8.18.1",
+            "table_C.8.18.1-1"
+         ]
+      ],
+      "name" : "Ophthalmic Photography and Tomography Modules"
+   },
+   "C.4.11" : {
+      "name" : "Requested Procedure Module",
+      "tbls" : [
+         [
+            "C.4.12",
+            "table_C.4-12"
+         ]
+      ]
+   },
+   "C.8.30.2" : {
+      "tbls" : [
+         [
+            "C.8.30.3",
+            "table_C.8.30.3-1"
+         ]
+      ],
+      "name" : "Corneal Topography Map Image Module"
+   },
+   "C.36.20" : {
+      "tbls" : [
+         [
+            "C.36.21",
+            "table_C.36.21-1"
+         ]
+      ],
+      "name" : "RT Radiation Record Set Module"
+   },
+   "C.8.21.3.2" : {
+      "name" : "X-Ray 3D Angiographic Acquisition Module",
+      "tbls" : [
+         [
+            "C.8.21.3.3",
+            "table_C.8.21.3.3-1"
+         ]
+      ]
+   },
+   "C.8.7.6" : {
+      "tbls" : [
+         [
+            "C.8.7.7",
+            "table_C.8-32"
+         ]
+      ],
+      "name" : "XRF Positioner Module"
+   },
+   "C.13.2" : {
+      "tbls" : [
+         [
+            "C.13.3",
+            "table_C.13-3"
+         ]
+      ],
+      "name" : "Basic Film Session Relationship Module"
+   },
+   "C.36.16" : {
+      "name" : "Tomotherapeutic Delivery Device Module",
+      "tbls" : [
+         [
+            "C.36.17",
+            "table_C.36.17-1"
+         ],
+         [
+            "C.36.17.1",
+            "table_C.36.17-2"
+         ]
+      ]
+   },
+   "C.27.4" : {
+      "name" : "Surface Mesh Primitives Macro",
+      "tbls" : [
+         [
+            "C.27.5",
+            "table_C.27.5-1"
+         ]
+      ]
+   },
+   "C.36.2.2" : {
+      "name" : "RT Second Generation Device Macros",
+      "tbls" : [
+         [
+            "C.36.2.3.1",
+            "table_C.36.2.3.1-1"
+         ]
+      ]
+   },
+   "C.36.3" : {
+      "name" : "Enhanced RT Series Module",
+      "tbls" : [
+         [
+            "C.36.4",
+            "table_C.36.4-1"
+         ]
+      ]
+   },
+   "C.27.2" : {
+      "name" : "Points Macro",
+      "tbls" : [
+         [
+            "C.27.3",
+            "table_C.27-3"
+         ]
+      ]
+   },
+   "C.8.8.5" : {
+      "name" : "Structure Set Module",
+      "tbls" : [
+         [
+            "C.8.8.6",
+            "table_C.8-42"
+         ]
+      ]
+   },
+   "C.8.8.17" : {
+      "tbls" : [
+         [
+            "C.8.8.18",
+            "table_C.8-54"
+         ]
+      ],
+      "name" : "RT General Treatment Record Module"
+   },
+   "C.8.17.7" : {
+      "tbls" : [
+         [
+            "C.8.17.8",
+            "table_C.8.17.8-1"
+         ],
+         [
+            "C.8.17.8",
+            "table_C.8.17.8-2"
+         ]
+      ],
+      "name" : "Ophthalmic Tomography Image Module"
+   },
+   "C.7.6.19" : {
+      "name" : "Supplemental Palette Color Lookup Table Module",
+      "tbls" : [
+         [
+            "C.7.6.20",
+            "table_C.7.6.20-1"
+         ]
+      ]
+   },
+   "C.8.22.5.3" : {
+      "tbls" : [
+         [
+            "C.8.22.5.4",
+            "table_C.8.22-14"
+         ]
+      ],
+      "name" : "PET Detector Motion Details Macro"
+   },
+   "C.34.7" : {
+      "name" : "Instructions Module",
+      "tbls" : [
+         [
+            "C.34.8",
+            "table_C.34.8-1"
+         ]
+      ]
+   },
+   "C.8.17.14" : {
+      "tbls" : [
+         [
+            "C.8.17.15",
+            "table_C.8.17.15-1"
+         ]
+      ],
+      "name" : "Ophthalmic Optical Coherence Tomography En Face Image Module"
+   },
+   "C.8.17.13" : {
+      "name" : "Wide Field Ophthalmic Photography Quality Rating Module",
+      "tbls" : [
+         [
+            "C.8.17.14",
+            "table_C.8.17.14-1"
+         ]
+      ]
+   },
+   "C.27.3" : {
+      "name" : "Vectors Macro",
+      "tbls" : [
+         [
+            "C.27.4",
+            "table_C.27-4"
+         ]
+      ]
+   },
+   "C.8.30" : {
+      "tbls" : [
+         [
+            "C.8.31.1",
+            "table_C.8.31-1"
+         ],
+         [
+            "C.8.31.1.1",
+            "table_C.8.31.1.1-1"
+         ]
+      ],
+      "name" : "Corneal Topography Map Modules"
+   },
+   "C.8.25" : {
+      "name" : "Ophthalmic Refractive Measurements Modules",
+      "tbls" : [
+         [
+            "C.8.26.1",
+            "table_C.8.26.1-1"
+         ]
+      ]
+   },
+   "C.8.8.13" : {
+      "tbls" : [
+         [
+            "C.8.8.14",
+            "table_C.8-50"
+         ]
+      ],
+      "name" : "RT Fraction Scheme Module"
+   },
+   "C.8.21.1.1.2" : {
+      "name" : "Volumetric Properties Attribute",
+      "tbls" : [
+         [
+            "C.8.21.1.1.3",
+            "table_C.8.21.1.1.3-1"
+         ]
+      ]
+   },
+   "C.7.6.4" : {
+      "name" : "Contrast/Bolus Module",
+      "tbls" : [
+         [
+            "C.7.6.4b",
+            "table_C.7-12b"
+         ]
+      ]
+   },
+   "C.31" : {
+      "tbls" : [
+         [
+            "C.32.1",
+            "table_C.32.1-1"
+         ]
+      ],
+      "name" : "Radiotherapy Workflow Modules"
+   },
+   "C.20.1" : {
+      "tbls" : [
+         [
+            "C.20.2",
+            "table_C.20.2-1"
+         ]
+      ],
+      "name" : "Spatial Registration Series Module"
+   },
+   "C.7.6.18.1" : {
+      "name" : "Cardiac Synchronization Module",
+      "tbls" : [
+         [
+            "C.7.6.18.2",
+            "table_C.7.6.18-2"
+         ]
+      ]
+   },
+   "C.8.19.6.4" : {
+      "name" : "X-Ray Frame Pixel Data Properties Macro",
+      "tbls" : [
+         [
+            "C.8.19.6.5",
+            "table_C.8.19.6-5"
+         ]
+      ]
+   },
+   "C.7.6.16.2.20" : {
+      "tbls" : [
+         [
+            "C.7.6.16.2.21",
+            "table_C.7.6.16.2.21-1"
+         ]
+      ],
+      "name" : "Patient Physiological State Macro"
+   },
+   "C.8.19.1" : {
+      "name" : "XA/XRF Series Module",
+      "tbls" : [
+         [
+            "C.8.19.2",
+            "table_C.8.19.2-1"
+         ]
+      ]
+   },
+   "C.36.21" : {
+      "name" : "RT Dose Contribution Record Module",
+      "tbls" : [
+         [
+            "C.36.22",
+            "table_C.36.22-1"
+         ]
+      ]
+   },
+   "C.36.19" : {
+      "tbls" : [
+         [
+            "C.36.20",
+            "table_C.36.20-1R"
+         ]
+      ],
+      "name" : "Robotic-Arm Path Module"
+   },
+   "C.8.26" : {
+      "tbls" : [
+         [
+            "C.8.27.1",
+            "table_C.8.27.1-1"
+         ]
+      ],
+      "name" : "Visual Field Static Perimetry Measurements Modules"
+   },
+   "C.8.22.5.6" : {
+      "tbls" : [
+         [
+            "C.8.22.5.7",
+            "table_C.8.22-18"
+         ]
+      ],
+      "name" : "PET Reconstruction Macro"
+   },
+   "C.9.2" : {
+      "tbls" : [
+         [
+            "C.9.3",
+            "table_C.9-3"
+         ]
+      ],
+      "name" : "Overlay Plane Module"
+   },
+   "C.8.22.5.5" : {
+      "tbls" : [
+         [
+            "C.8.22.5.6",
+            "table_C.8.22-17"
+         ]
+      ],
+      "name" : "PET Frame Correction Factors Macro"
+   },
+   "C.8.13.1" : {
+      "tbls" : [
+         [
+            "C.8.13.2",
+            "table_C.8-83"
+         ]
+      ],
+      "name" : "Enhanced MR Image Module"
+   },
+   "C.34.11" : {
+      "tbls" : [
+         [
+            "C.34.12",
+            "table_C.34.12-1"
+         ]
+      ],
+      "name" : "General Defined Reconstruction Module"
+   },
+   "C.8.22.5.2" : {
+      "tbls" : [
+         [
+            "C.8.22.5.3",
+            "table_C.8.22-12"
+         ]
+      ],
+      "name" : "PET Frame Acquisition Macro"
+   },
+   "C.9.1" : {
+      "tbls" : [
+         [
+            "C.9.2",
+            "table_C.9-2"
+         ]
+      ],
+      "name" : "Overlay Identification Module"
+   },
+   "C.34" : {
+      "tbls" : [
+         [
+            "C.35.1",
+            "table_C.35.1-1"
+         ]
+      ],
+      "name" : "Procedure Protocol Modules"
+   },
+   "C.27.1" : {
+      "name" : "Surface Mesh Module",
+      "tbls" : [
+         [
+            "C.27.2",
+            "table_C.27-2"
+         ]
+      ]
+   },
+   "C.8.6.2" : {
+      "tbls" : [
+         [
+            "C.8.6.3",
+            "table_C.8-25b"
+         ]
+      ],
+      "name" : "SC Image Module"
+   },
+   "C.8.31.7" : {
+      "tbls" : [
+         [
+            "C.8.31.8",
+            "table_C.8.31.8-1"
+         ]
+      ],
+      "name" : "X-Ray Grid Macro"
+   },
+   "C.8.9.2" : {
+      "name" : "PET Isotope Module",
+      "tbls" : [
+         [
+            "C.8.9.3",
+            "table_C.8-62"
+         ]
+      ]
+   },
+   "C.27.5" : {
+      "tbls" : [
+         [
+            "C.27.6",
+            "table_C.27.6-1"
+         ]
+      ],
+      "name" : "Point Cloud Module"
+   },
+   "C.8.27.2.3" : {
+      "tbls" : [
+         [
+            "C.8.27.2.4",
+            "table_C.8.27.2-5"
+         ]
+      ],
+      "name" : "Pixel Presentation"
+   },
+   "C.8.4.7" : {
+      "name" : "NM Image Pixel Module",
+      "tbls" : [
+         [
+            "C.8.4.8",
+            "table_C.8-7"
+         ],
+         [
+            "C.8.4.8.1.1",
+            "table_C.8-8"
+         ]
+      ]
+   },
+   "C.7.6.24" : {
+      "name" : "Floating Point Image Pixel Module",
+      "tbls" : [
+         [
+            "C.7.6.25",
+            "table_PS3.3_C.7.6.25-1"
+         ]
+      ]
+   },
+   "C.7.6.16.1" : {
+      "tbls" : [
+         [
+            "C.7.6.16.2.1",
+            "table_C.7.6.16-2"
+         ]
+      ],
+      "name" : "Multi-frame Functional Groups Module Attribute Description"
+   },
+   "C.8.24.5" : {
+      "tbls" : [
+         [
+            "C.8.24.6.1",
+            "table_C.8.24.6.1-1"
+         ]
+      ],
+      "name" : "Excluded Intervals Module"
+   },
+   "C.8.31.4" : {
+      "tbls" : [
+         [
+            "C.8.31.5",
+            "table_C.8.31.5-1"
+         ]
+      ],
+      "name" : "Breast X-Ray Geometry Macro"
+   },
+   "C.8.26.5" : {
+      "tbls" : [
+         [
+            "C.8.26.6",
+            "table_C.8.26.6-1"
+         ],
+         [
+            "C.8.26.6.1",
+            "table_C.8.26.6-2"
+         ]
+      ],
+      "name" : "Visual Field Static Perimetry Test Results Module"
+   },
+   "C.8.16.1.3" : {
+      "name" : "Image Flavor",
+      "tbls" : [
+         [
+            "C.8.16.1.4",
+            "table_C.8-130"
+         ]
+      ]
+   },
+   "C.12.3" : {
+      "name" : "Frame Extraction Module",
+      "tbls" : [
+         [
+            "C.12.4",
+            "table_C.12-10"
+         ]
+      ]
+   },
+   "C.8.19.6.5" : {
+      "tbls" : [
+         [
+            "C.8.19.6.6",
+            "table_C.8.19.6-6"
+         ]
+      ],
+      "name" : "X-Ray Frame Detector Parameters Macro"
+   },
+   "C.8.25.1" : {
+      "name" : "Lensometry Measurements Series Module",
+      "tbls" : [
+         [
+            "C.8.25.2",
+            "table_C.8.25.2-1"
+         ]
+      ]
+   },
+   "C.7.6.16.2.27" : {
+      "tbls" : [
+         [
+            "C.7.6.16.2.28",
+            "table_C.7.6.16.2.28-1"
+         ]
+      ],
+      "name" : "Frame Usefulness Macro"
+   },
+   "C.8.33.2" : {
+      "name" : "Tractography Results Module",
+      "tbls" : [
+         [
+            "C.8.33.3",
+            "table_C.8.33-3"
+         ]
+      ]
+   },
+   "C.23.3" : {
+      "name" : "Hanging Protocol Display Module",
+      "tbls" : [
+         [
+            "C.23.4.1",
+            "table_C.23.4-1"
+         ]
+      ]
+   },
+   "C.7.6.16.2.24" : {
+      "tbls" : [
+         [
+            "C.7.6.16.2.25.1",
+            "table_C.7.6.16.2.25.1-1"
+         ]
+      ],
+      "name" : "Image Data Type Macro"
+   },
+   "C.7.6.13" : {
+      "name" : "Intervention Module",
+      "tbls" : [
+         [
+            "C.7.6.14",
+            "table_C.7.6.14-1"
+         ]
+      ]
+   },
+   "C.10.9.1.4" : {
+      "tbls" : [
+         [
+            "C.10.9.1.5",
+            "table_C.10-10"
+         ]
+      ],
+      "name" : "Channel Definition Sequence"
+   },
+   "C.7.6.16.2.26" : {
+      "tbls" : [
+         [
+            "C.7.6.16.2.27",
+            "table_C.7.6.16.2.27-1"
+         ]
+      ],
+      "name" : "Stored Value Color Range Macro"
+   },
+   "C.7.6.16.2.10b" : {
+      "name" : "Frame VOI LUT With LUT Macro",
+      "tbls" : [
+         [
+            "C.7.6.16.2.11",
+            "table_C.7.6.16-12"
+         ],
+         [
+            "C.7.6.16.2.11",
+            "table_C.7.6.16-12b"
+         ]
+      ]
+   },
+   "C.24" : {
+      "name" : "Encapsulated Document Modules",
+      "tbls" : [
+         [
+            "C.25.1",
+            "table_C.25.1-1"
+         ]
+      ]
+   },
+   "C.29" : {
+      "tbls" : [
+         [
+            "C.30.1",
+            "table_C.30.1-1"
+         ]
+      ],
+      "name" : "Implant Modules"
+   },
+   "C.17.6.1" : {
+      "name" : "Key Object Document Series Module",
+      "tbls" : [
+         [
+            "C.17.6.2",
+            "table_C.17.6-2"
+         ]
+      ]
+   },
+   "C.36.24" : {
+      "tbls" : [
+         [
+            "C.36.25",
+            "table_C.36.25-1"
+         ]
+      ],
+      "name" : "RT Radiation Set Delivery Instruction Module"
+   },
+   "C.18.8" : {
+      "tbls" : [
+         [
+            "C.18.9",
+            "table_C.18.9-1"
+         ]
+      ],
+      "name" : "Container Macro"
+   },
+   "C.11.29" : {
+      "name" : "Presentation Animation Module",
+      "tbls" : [
+         [
+            "C.11.30",
+            "table_C.11.30-1"
+         ]
+      ]
+   },
+   "C.34.1" : {
+      "name" : "CT Protocol Series Module",
+      "tbls" : [
+         [
+            "C.34.2",
+            "table_C.34.2-1"
+         ]
+      ]
+   },
+   "C.34.6" : {
+      "name" : "Equipment Specification Module",
+      "tbls" : [
+         [
+            "C.34.7",
+            "table_C.34.7-1"
+         ]
+      ]
+   },
+   "C.11.6" : {
+      "name" : "Softcopy Presentation LUT Module",
+      "tbls" : [
+         [
+            "C.11.7",
+            "table_C.11.7-1"
+         ]
+      ]
+   },
+   "C.7.6.10" : {
+      "tbls" : [
+         [
+            "C.7.6.11",
+            "table_C.7-17"
+         ],
+         [
+            "C.7.6.11",
+            "table_C.7-17a"
+         ]
+      ],
+      "name" : "Mask Module"
+   },
+   "C.8.8.20" : {
+      "name" : "Calculated Dose Reference Record Module",
+      "tbls" : [
+         [
+            "C.8.8.21",
+            "table_C.8-57"
+         ]
+      ]
+   },
+   "C.27" : {
+      "name" : "Common Surface IE Modules",
+      "tbls" : [
+         [
+            "C.28.1",
+            "table_C.28.1-1"
+         ]
+      ]
+   },
+   "C.11.4" : {
+      "name" : "Presentation LUT Module",
+      "tbls" : [
+         [
+            "C.11.5",
+            "table_C.11.5-1"
+         ]
+      ]
+   },
+   "C.8.7.2" : {
+      "tbls" : [
+         [
+            "C.8.7.3",
+            "table_C.8-28"
+         ],
+         [
+            "C.8.7.3",
+            "table_C.8-28b"
+         ]
+      ],
+      "name" : "X-Ray Acquisition Module"
+   },
+   "C.8.7.5" : {
+      "name" : "XA Positioner Module",
+      "tbls" : [
+         [
+            "C.8.7.6",
+            "table_C.8-31"
+         ]
+      ]
+   },
+   "C.29.1.1" : {
+      "name" : "Generic Implant Template Description Module",
+      "tbls" : [
+         [
+            "C.29.1.2",
+            "table_C.29.1.2-1"
+         ]
+      ]
+   },
+   "C.11.18" : {
+      "tbls" : [
+         [
+            "C.11.19",
+            "table_C.11.19-1"
+         ]
+      ],
+      "name" : "Structured Display Annotation Module"
+   },
+   "C.18.3" : {
+      "tbls" : [
+         [
+            "C.18.4",
+            "table_C.18.4-1"
+         ]
+      ],
+      "name" : "Composite Object Reference Macro"
+   },
+   "C.36.13" : {
+      "tbls" : [
+         [
+            "C.36.14",
+            "table_C.36.14-1"
+         ]
+      ],
+      "name" : "RT Radiation Common Module"
+   },
+   "C.4.9" : {
+      "tbls" : [
+         [
+            "C.4.10",
+            "table_C.4-10"
+         ]
+      ],
+      "name" : "Study Component Acquisition Module"
+   },
+   "C.11.28" : {
+      "tbls" : [
+         [
+            "C.11.29",
+            "table_C.11.29-1"
+         ]
+      ],
+      "name" : "Volumetric Graphic Annotation Module"
+   },
+   "C.36.2.1.4" : {
+      "name" : "Dosimetric Objective Macro",
+      "tbls" : [
+         [
+            "C.36.2.1.5",
+            "table_C.36.2.1.5-1"
+         ],
+         [
+            "C.36.2.1.5.1.1",
+            "table_C.36.2.1.5-2"
+         ]
+      ]
+   },
+   "C.22" : {
+      "name" : "Media Creation Management Specific Modules",
+      "tbls" : [
+         [
+            "C.23.1",
+            "table_C.23.1-1"
+         ]
+      ]
+   },
+   "C.34.17" : {
+      "name" : "Performed XA Acquisition Module",
+      "tbls" : [
+         [
+            "C.34.18",
+            "table_C.34.18-1"
+         ]
+      ]
+   },
+   "C.18.7" : {
+      "name" : "Temporal Coordinates Macro",
+      "tbls" : [
+         [
+            "C.18.8",
+            "table_C.18.8-1"
+         ]
+      ]
+   },
+   "C.7.3.2" : {
+      "name" : "Clinical Trial Series Module",
+      "tbls" : [
+         [
+            "C.7.3.3",
+            "table_C.7-5c"
+         ]
+      ]
+   },
+   "C.8.12.4" : {
+      "tbls" : [
+         [
+            "C.8.12.5",
+            "table_C.8.12.5-1"
+         ]
+      ],
+      "name" : "Whole Slide Microscopy Image Module"
+   },
+   "C.8.12.3" : {
+      "tbls" : [
+         [
+            "C.8.12.4",
+            "table_C.8.12.4-1"
+         ],
+         [
+            "C.8.12.4.1.1",
+            "table_C.8.12.4-2"
+         ],
+         [
+            "C.8.12.4.1.1",
+            "table_C.8.12.4-3"
+         ]
+      ],
+      "name" : "Whole Slide Microscopy Series Module"
+   },
+   "C.7.1" : {
+      "tbls" : [
+         [
+            "C.7.2.1",
+            "table_C.7-3"
+         ]
+      ],
+      "name" : "Common Patient IE Modules"
+   },
+   "C.8.21.2.1" : {
+      "tbls" : [
+         [
+            "C.8.21.2.2",
+            "table_C.8.21.2.2-1"
+         ]
+      ],
+      "name" : "X-Ray 3D Angiographic Image Contributing Sources Module"
+   },
+   "C.8.13.5.10" : {
+      "tbls" : [
+         [
+            "C.8.13.5.11",
+            "table_C.8-98"
+         ]
+      ],
+      "name" : "MR Averages Macro"
+   },
+   "C.8.21.5.1" : {
+      "name" : "X-Ray 3D Frame Type Macro",
+      "tbls" : [
+         [
+            "C.8.21.5.2",
+            "table_C.8.21.5.2-1"
+         ]
+      ]
+   },
+   "C.8.22.5.4" : {
+      "tbls" : [
+         [
+            "C.8.22.5.5",
+            "table_C.8.22-15"
+         ]
+      ],
+      "name" : "PET Position Macro"
+   },
+   "C.8.29.1" : {
+      "tbls" : [
+         [
+            "C.8.29.2",
+            "table_C.8.29-2"
+         ]
+      ],
+      "name" : "Optical Surface Scanner Series Module"
+   },
+   "C.8.17.2" : {
+      "tbls" : [
+         [
+            "C.8.17.3",
+            "table_C.8.17.3-1"
+         ]
+      ],
+      "name" : "Ophthalmic Photography Image Module"
+   },
+   "C.13.1" : {
+      "tbls" : [
+         [
+            "C.13.2",
+            "table_C.13-2"
+         ]
+      ],
+      "name" : "Basic Film Session Presentation Module"
+   },
+   "C.7.6.22" : {
+      "name" : "Specimen Module",
+      "tbls" : [
+         [
+            "C.7.6.23",
+            "table_C.7.6.23-1"
+         ]
+      ]
+   },
+   "C.18.5" : {
+      "name" : "Waveform Reference Macro",
+      "tbls" : [
+         [
+            "C.18.6",
+            "table_C.18.6-1"
+         ]
+      ]
+   },
+   "C.8.19.6.10" : {
+      "tbls" : [
+         [
+            "C.8.19.6.11",
+            "table_C.8.19.6-11"
+         ]
+      ],
+      "name" : "X-Ray Positioner Macro"
+   },
+   "C.11.26" : {
+      "name" : "Multi-Planar Reconstruction Geometry Module",
+      "tbls" : [
+         [
+            "C.11.27",
+            "table_C.11.27-1"
+         ]
+      ]
+   },
+   "C.12" : {
+      "tbls" : [
+         [
+            "C.13.1",
+            "table_C.13-1"
+         ]
+      ],
+      "name" : "General Modules"
+   },
+   "C.8.14.2" : {
+      "name" : "MR Spectroscopy Pulse Sequence Module",
+      "tbls" : [
+         [
+            "C.8.14.3.1",
+            "table_C.8-104"
+         ]
+      ]
+   },
+   "C.36.12" : {
+      "name" : "RT Delivery Device Common Module",
+      "tbls" : [
+         [
+            "C.36.13",
+            "table_C.36.13-1"
+         ]
+      ]
+   },
+   "C.8.13.1.1.1" : {
+      "name" : "Image Type and Frame Type",
+      "tbls" : [
+         [
+            "C.8.13.1.1.2",
+            "table_C.8-82"
+         ]
+      ]
+   },
+   "C.11.15" : {
+      "tbls" : [
+         [
+            "C.11.16",
+            "table_C.11.16-1"
+         ]
+      ],
+      "name" : "ICC Profile Module"
+   },
+   "C.8.8.14" : {
+      "name" : "RT Beams Module",
+      "tbls" : [
+         [
+            "C.8.8.15",
+            "table_C.8-51"
+         ]
+      ]
+   },
+   "C.11.20" : {
+      "tbls" : [
+         [
+            "C.11.21",
+            "table_C.11.21-1"
+         ]
+      ],
+      "name" : "XA/XRF Presentation State Shutter Module"
+   },
+   "C.36.2.2.5" : {
+      "tbls" : [
+         [
+            "C.36.2.2.6",
+            "table_C.36.2.2.6-1"
+         ]
+      ],
+      "name" : "RT Control Point General Macro"
+   },
+   "C.8.11.9" : {
+      "name" : "Intra-Oral Image Module",
+      "tbls" : [
+         [
+            "C.8.11.10",
+            "table_C.8-76b"
+         ]
+      ]
+   },
+   "C.13.12" : {
+      "tbls" : [
+         [
+            "C.13.13",
+            "table_C.13-13"
+         ]
+      ],
+      "name" : "Print Request Module"
+   },
+   "C.8.25.16.3" : {
+      "tbls" : [
+         [
+            "C.8.25.16.4",
+            "table_C.8.25.16-4"
+         ]
+      ],
+      "name" : "Keratometry Macro"
+   },
+   "C.8.26.2" : {
+      "tbls" : [
+         [
+            "C.8.26.3",
+            "table_C.8.26.3-1"
+         ],
+         [
+            "C.8.26.3.1",
+            "table_C.8.26.3-2"
+         ]
+      ],
+      "name" : "Visual Field Static Perimetry Test Parameters Module"
+   },
+   "C.8.22.1" : {
+      "name" : "Enhanced PET Series Module",
+      "tbls" : [
+         [
+            "C.8.22.2",
+            "table_C.8.22-2"
+         ]
+      ]
+   },
+   "C.17.5" : {
+      "tbls" : [
+         [
+            "C.17.6.1",
+            "table_C.17.6-1"
+         ]
+      ],
+      "name" : "Observation Context Encoding"
+   },
+   "C.8.27.1" : {
+      "tbls" : [
+         [
+            "C.8.27.2",
+            "table_C.8.27.2-1"
+         ],
+         [
+            "C.8.27.2.1",
+            "table_C.8.27.2-2"
+         ]
+      ],
+      "name" : "Intravascular OCT Series Module"
+   },
+   "C.8.27.2" : {
+      "name" : "Intravascular OCT Image Module",
+      "tbls" : [
+         [
+            "C.8.27.3",
+            "table_C.8.27.3-1"
+         ]
+      ]
+   },
+   "C.8.25.14.4" : {
+      "tbls" : [
+         [
+            "C.8.25.14.5",
+            "table_C.8.25.14-6"
+         ]
+      ],
+      "name" : "Ophthalmic Axial Measurements Selected Macro"
+   },
+   "C.7.2.1" : {
+      "tbls" : [
+         [
+            "C.7.2.2",
+            "table_C.7-4a"
+         ]
+      ],
+      "name" : "General Study Module"
+   },
+   "C.34.10" : {
+      "tbls" : [
+         [
+            "C.34.11",
+            "table_C.34.11-1"
+         ]
+      ],
+      "name" : "Performed CT Acquisition Module"
+   },
+   "C.29.1.4" : {
+      "name" : "Generic Implant Template Mating Features Module",
+      "tbls" : [
+         [
+            "C.29.1.5",
+            "table_C.29.1.5-1"
+         ],
+         [
+            "C.29.1.5.1",
+            "table_C.29.1.5-2"
+         ],
+         [
+            "C.29.1.5.1",
+            "table_C.29.1.5-3"
+         ],
+         [
+            "C.29.1.5.1",
+            "table_C.29.1.5-4"
+         ]
+      ]
+   },
+   "C.7.6.3" : {
+      "name" : "Image Pixel Module",
+      "tbls" : [
+         [
+            "C.7.6.4",
+            "table_C.7-12"
+         ]
+      ]
+   },
+   "C.8.8.3.1" : {
+      "name" : "Normalization Point",
+      "tbls" : [
+         [
+            "C.8.8.3.2",
+            "table_C.8-39b"
+         ]
+      ]
+   },
+   "C.7.6.27" : {
+      "name" : "Current Frame Functional Groups Module",
+      "tbls" : [
+         [
+            "C.7.6.28",
+            "table_C.7.6.28-1"
+         ]
+      ]
+   },
+   "C.8.13.5" : {
+      "name" : "Enhanced MR Image Functional Group Macros",
+      "tbls" : [
+         [
+            "C.8.13.6",
+            "table_C.8-101"
+         ]
+      ]
+   },
+   "C.8.31.5" : {
+      "tbls" : [
+         [
+            "C.8.31.6",
+            "table_C.8.31.6-1"
+         ]
+      ],
+      "name" : "Breast X-Ray Acquisition Dose Macro"
+   },
+   "C.7.6.16.2.9b" : {
+      "tbls" : [
+         [
+            "C.7.6.16.2.10",
+            "table_C.7.6.16-11"
+         ]
+      ],
+      "name" : "Identity Pixel Value Transformation Macro"
+   },
+   "C.7.6.15" : {
+      "tbls" : [
+         [
+            "C.7.6.16",
+            "table_C.7.6.16-1"
+         ]
+      ],
+      "name" : "Bitmap Display Shutter Module"
+   },
+   "C.8.26.1" : {
+      "tbls" : [
+         [
+            "C.8.26.2",
+            "table_C.8.26.2-1"
+         ]
+      ],
+      "name" : "Visual Field Static Perimetry Measurements Series Module"
+   },
+   "C.36.20.1.1" : {
+      "name" : "Referenced RT Radiation Record Sequence",
+      "tbls" : [
+         [
+            "C.36.20.1.2",
+            "table_C.36.20-2"
+         ]
+      ]
+   },
+   "C.8.4.10" : {
+      "name" : "NM Isotope Module",
+      "tbls" : [
+         [
+            "C.8.4.11",
+            "table_C.8-11"
+         ]
+      ]
+   },
+   "C.36.2.2.15" : {
+      "tbls" : [
+         [
+            "C.36.2.2.16",
+            "table_C.36.2.2.16-1"
+         ]
+      ],
+      "name" : "General Accessories Definition Macro"
+   },
+   "C.7.6.16.2.17" : {
+      "name" : "Respiratory Synchronization Macro",
+      "tbls" : [
+         [
+            "C.7.6.16.2.18",
+            "table_C.7.6.16-19"
+         ]
+      ]
+   },
+   "C.8.15.3.9" : {
+      "tbls" : [
+         [
+            "C.8.15.3.10",
+            "table_C.8-126"
+         ]
+      ],
+      "name" : "CT X-Ray Details Macro"
+   },
+   "C.36.2.1.5" : {
+      "name" : "Radiobiological Dose Effect Description Macro",
+      "tbls" : [
+         [
+            "C.36.2.1.6",
+            "table_C.36.2.1.6-1"
+         ]
+      ]
+   },
+   "C.8.13.5.9" : {
+      "tbls" : [
+         [
+            "C.8.13.5.10",
+            "table_C.8-97"
+         ]
+      ],
+      "name" : "MR Diffusion Macro"
+   },
+   "C.8.33.1" : {
+      "tbls" : [
+         [
+            "C.8.33.2",
+            "table_C.8.33-2"
+         ]
+      ],
+      "name" : "Tractography Results Series Module"
+   },
+   "C.11.23" : {
+      "name" : "Volumetric Presentation State Relationship Module",
+      "tbls" : [
+         [
+            "C.11.24",
+            "table_C.11.24-1"
+         ]
+      ]
+   },
+   "C.8.8.18" : {
+      "name" : "RT Treatment Machine Record Module",
+      "tbls" : [
+         [
+            "C.8.8.19",
+            "table_C.8-55"
+         ]
+      ]
+   },
+   "C.8.8.2" : {
+      "name" : "RT Image Module",
+      "tbls" : [
+         [
+            "C.8.8.3",
+            "table_C.8-39"
+         ]
+      ]
+   },
+   "C.25.1" : {
+      "name" : "Real World Value Mapping Series Module",
+      "tbls" : [
+         [
+            "C.25.2",
+            "table_C.25.2-1"
+         ]
+      ]
+   },
+   "C.36.2.2.8" : {
+      "name" : "RT Beam Limiting Devices Definition Macro",
+      "tbls" : [
+         [
+            "C.36.2.2.9",
+            "table_C.36.2.2.9-1"
+         ]
+      ]
+   },
+   "C.4.13" : {
+      "tbls" : [
+         [
+            "C.4.14",
+            "table_C.4-14"
+         ]
+      ],
+      "name" : "Performed Procedure Step Relationship"
+   },
+   "C.6" : {
+      "name" : "Interpretation Modules",
+      "tbls" : [
+         [
+            "C.7.1.1",
+            "table_C.7-1"
+         ]
+      ]
+   },
+   "C.8.11" : {
+      "tbls" : [
+         [
+            "C.8.12.1",
+            "table_C.8-77"
+         ]
+      ],
+      "name" : "DX Modules"
+   },
+   "C.21.1" : {
+      "tbls" : [
+         [
+            "C.21.2",
+            "table_C.21.2-1"
+         ]
+      ],
+      "name" : "Spatial Fiducials Series Module"
+   },
+   "C.36.17" : {
+      "tbls" : [
+         [
+            "C.36.18",
+            "table_C.36.18-1"
+         ]
+      ],
+      "name" : "Tomotherapeutic Beam Module"
+   },
+   "C.8.8.12" : {
+      "tbls" : [
+         [
+            "C.8.8.13",
+            "table_C.8-49"
+         ]
+      ],
+      "name" : "RT Patient Setup Module"
+   },
+   "C.7.9.2.2" : {
+      "name" : "Linear Segment Type",
+      "tbls" : [
+         [
+            "C.7.9.2.3",
+            "table_C.7-27"
+         ]
+      ]
+   },
+   "C.8.29" : {
+      "name" : "Optical Surface Scanner Modules",
+      "tbls" : [
+         [
+            "C.8.30.1",
+            "table_C.8.30.1-1"
+         ]
+      ]
+   },
+   "C.8.17.9" : {
+      "name" : "Ophthalmic Tomography Parameters Module",
+      "tbls" : [
+         [
+            "C.8.17.10.1",
+            "table_C.8.17.10-1"
+         ]
+      ]
+   },
+   "C.7.6.16.2.2" : {
+      "tbls" : [
+         [
+            "C.7.6.16.2.3",
+            "table_C.7.6.16-4"
+         ]
+      ],
+      "name" : "Frame Content Macro"
+   },
+   "C.29.2" : {
+      "tbls" : [
+         [
+            "C.29.3.1",
+            "table_C.29.3-1"
+         ]
+      ],
+      "name" : "Implant Assembly Template"
+   },
+   "C.8.22.2" : {
+      "name" : "Enhanced PET Acquisition Module",
+      "tbls" : [
+         [
+            "C.8.22.3",
+            "table_C.8.22-3"
+         ]
+      ]
+   },
+   "C.8.15.3.1" : {
+      "tbls" : [
+         [
+            "C.8.15.3.2",
+            "table_C.8-118"
+         ]
+      ],
+      "name" : "CT Image Frame Type Macro"
+   },
+   "C.8.13.5.13" : {
+      "name" : "MR Velocity Encoding Macro",
+      "tbls" : [
+         [
+            "C.8.13.5.14",
+            "table_C.8-100b"
+         ]
+      ]
+   },
+   "C.36.2.2.16" : {
+      "name" : "Boluses Definition Macro",
+      "tbls" : [
+         [
+            "C.36.2.2.17",
+            "table_C.36.2.2.17-1"
+         ]
+      ]
+   },
+   "C.8.19.6.13" : {
+      "name" : "X-Ray Isocenter Reference System Macro",
+      "tbls" : [
+         [
+            "C.8.19.6.14",
+            "table_C.8.19.6-14"
+         ]
+      ]
+   },
+   "C.7.6.16.2.15" : {
+      "tbls" : [
+         [
+            "C.7.6.16.2.16",
+            "table_C.7.6.16-17"
+         ]
+      ],
+      "name" : "Patient Orientation in Frame Macro"
+   },
+   "C.8.15.3.5" : {
+      "name" : "CT Position Macro",
+      "tbls" : [
+         [
+            "C.8.15.3.6",
+            "table_C.8-122"
+         ]
+      ]
+   },
+   "C.7.1.2" : {
+      "name" : "Specimen Identification Module",
+      "tbls" : [
+         [
+            "C.7.1.3",
+            "table_C.7-2b"
+         ]
+      ]
+   },
+   "C.8.19.6.9" : {
+      "name" : "X-Ray Projection Pixel Calibration Macro",
+      "tbls" : [
+         [
+            "C.8.19.6.10",
+            "table_C.8.19.6-10"
+         ]
+      ]
+   },
+   "C.8.24.4" : {
+      "tbls" : [
+         [
+            "C.8.24.5",
+            "table_C.8.24.5-1"
+         ]
+      ],
+      "name" : "IVUS Image Module"
+   },
+   "C.34.2" : {
+      "name" : "Protocol Context Module",
+      "tbls" : [
+         [
+            "C.34.3",
+            "table_C.34.3-1"
+         ]
+      ]
+   },
+   "C.8.8.24" : {
+      "name" : "RT Ion Tolerance Tables Module",
+      "tbls" : [
+         [
+            "C.8.8.25",
+            "table_C.8.8.25-1"
+         ]
+      ]
+   },
+   "C.8.8.7" : {
+      "name" : "RT Dose ROI Module",
+      "tbls" : [
+         [
+            "C.8.8.8",
+            "table_C.8-44"
+         ]
+      ]
+   },
+   "C.8.19.3" : {
+      "name" : "XA/XRF Acquisition Module",
+      "tbls" : [
+         [
+            "C.8.19.4",
+            "table_C.8.19.4-1"
+         ]
+      ]
+   },
+   "C.7.6.14" : {
+      "tbls" : [
+         [
+            "C.7.6.15",
+            "table_C.7.6.15-1"
+         ]
+      ],
+      "name" : "Acquisition Context Module"
+   },
+   "C.8.19.6.6" : {
+      "tbls" : [
+         [
+            "C.8.19.6.7",
+            "table_C.8.19.6-7"
+         ]
+      ],
+      "name" : "X-Ray Calibration Device Usage Macro"
+   },
+   "C.36.2.2.11" : {
+      "tbls" : [
+         [
+            "C.36.2.2.12",
+            "table_C.36.2.2.12-1"
+         ]
+      ],
+      "name" : "Wedge Positions Macro"
+   },
+   "C.36.7" : {
+      "name" : "RT Treatment Phase Intent Module",
+      "tbls" : [
+         [
+            "C.36.8",
+            "table_C.36.8-1"
+         ],
+         [
+            "C.36.8.1.1",
+            "table_C.36.8-2"
+         ]
+      ]
+   },
+   "C.8.24.3.3" : {
+      "tbls" : [
+         [
+            "C.8.24.3.4",
+            "table_C.8.24.3.4-1"
+         ]
+      ],
+      "name" : "Dimension Organization Type"
+   },
+   "C.8.19" : {
+      "name" : "Enhanced XA/XRF Image",
+      "tbls" : [
+         [
+            "C.8.20.1",
+            "table_C.8.20-1"
+         ]
+      ]
+   },
+   "C.18" : {
+      "tbls" : [
+         [
+            "C.19.1",
+            "table_C.19-1"
+         ]
+      ],
+      "name" : "Content Macros"
+   },
+   "C.8.30.1" : {
+      "name" : "Corneal Topography Map Series Module",
+      "tbls" : [
+         [
+            "C.8.30.2",
+            "table_C.8.30.2-1"
+         ]
+      ]
+   },
+   "C.36.2.1.2" : {
+      "name" : "RT Treatment Phase Macro",
+      "tbls" : [
+         [
+            "C.36.2.1.3",
+            "table_C.36.2.1.3-1"
+         ]
+      ]
+   },
+   "C.8.5" : {
+      "tbls" : [
+         [
+            "C.8.6.1",
+            "table_C.8-24"
+         ]
+      ],
+      "name" : "Ultrasound Modules"
+   },
+   "C.34.8" : {
+      "tbls" : [
+         [
+            "C.34.9",
+            "table_C.34.9-1"
+         ],
+         [
+            "C.34.9.1",
+            "table_C.34.9-2"
+         ]
+      ],
+      "name" : "Patient Positioning Module"
+   },
+   "C.8.8.9" : {
+      "name" : "RT General Plan Module",
+      "tbls" : [
+         [
+            "C.8.8.10",
+            "table_C.8-46"
+         ]
+      ]
+   },
+   "C.8.21.3.1" : {
+      "tbls" : [
+         [
+            "C.8.21.3.2",
+            "table_C.8.21.3.2-1"
+         ]
+      ],
+      "name" : "X-Ray 3D General Acquisition Macros"
+   },
+   "C.7.6.2" : {
+      "name" : "Image Plane Module",
+      "tbls" : [
+         [
+            "C.7.6.3",
+            "table_C.7-11a"
+         ],
+         [
+            "C.7.6.3",
+            "table_C.7-11b"
+         ],
+         [
+            "C.7.6.3",
+            "table_C.7-11c"
+         ]
+      ]
+   },
+   "C.36.6" : {
+      "tbls" : [
+         [
+            "C.36.7",
+            "table_C.36.7-1"
+         ]
+      ],
+      "name" : "RT Enhanced Prescription Module"
+   },
+   "C.8.7.8" : {
+      "tbls" : [
+         [
+            "C.8.7.9",
+            "table_C.8-34"
+         ]
+      ],
+      "name" : "X-Ray Acquisition Dose Module"
+   },
+   "C.8.19.6.8" : {
+      "tbls" : [
+         [
+            "C.8.19.6.9",
+            "table_C.8.19.6-9"
+         ]
+      ],
+      "name" : "X-Ray Frame Acquisition Macro"
+   },
+   "C.7.6.11" : {
+      "name" : "Display Shutter Module",
+      "tbls" : [
+         [
+            "C.7.6.12",
+            "table_C.7-18"
+         ]
+      ]
+   },
+   "C.7.6.16.2.5" : {
+      "tbls" : [
+         [
+            "C.7.6.16.2.6",
+            "table_C.7.6.16-7"
+         ]
+      ],
+      "name" : "Referenced Image Macro"
+   },
+   "C.11.27" : {
+      "tbls" : [
+         [
+            "C.11.28",
+            "table_C.11.28-1"
+         ]
+      ],
+      "name" : "MPR Volumetric Presentation State Display Module"
+   },
+   "C.36.2.2.12" : {
+      "tbls" : [
+         [
+            "C.36.2.2.13",
+            "table_C.36.2.2.13-1"
+         ]
+      ],
+      "name" : "Compensators Definition Macro"
+   },
+   "C.36.5" : {
+      "tbls" : [
+         [
+            "C.36.6",
+            "table_C.36.6-1"
+         ],
+         [
+            "C.36.6.1.1",
+            "table_C.36.6-2"
+         ]
+      ],
+      "name" : "RT Physician Intent Module"
+   },
+   "C.36.2.2.2" : {
+      "tbls" : [
+         [
+            "C.36.2.2.3",
+            "table_C.36.2.2.3-1"
+         ]
+      ],
+      "name" : "RT Patient Support Devices Macro"
+   },
+   "C.17.3.1" : {
+      "name" : "SR Document Content Tree",
+      "tbls" : [
+         [
+            "C.17.3.2.1",
+            "table_C.17.3-7"
+         ]
+      ]
+   },
+   "C.8.19.6" : {
+      "tbls" : [
+         [
+            "C.8.19.7",
+            "table_C.8.19.7-1"
+         ]
+      ],
+      "name" : "Enhanced XA/XRF Image Functional Group Macros"
+   },
+   "C.8.25.16.7" : {
+      "name" : "Calculated Toric Power Macro",
+      "tbls" : [
+         [
+            "C.8.25.16.8",
+            "table_C.8.25.16-8"
+         ]
+      ]
+   },
+   "C.7.4.1" : {
+      "name" : "Frame of Reference Module",
+      "tbls" : [
+         [
+            "C.7.4.2",
+            "table_C.7-7"
+         ]
+      ]
+   },
+   "C.8.11.4" : {
+      "tbls" : [
+         [
+            "C.8.11.5",
+            "table_C.8-72"
+         ]
+      ],
+      "name" : "DX Detector Module"
+   },
+   "C.8.17.5" : {
+      "tbls" : [
+         [
+            "C.8.17.6",
+            "table_C.8.17.6-1"
+         ]
+      ],
+      "name" : "Ocular Region Imaged Module"
+   },
+   "C.8.13.4" : {
+      "name" : "MR Pulse Sequence Module",
+      "tbls" : [
+         [
+            "C.8.13.5.1",
+            "table_C.8-88"
+         ]
+      ]
+   },
+   "C.36.2.1.3" : {
+      "name" : "RT Treatment Phase Interval Macro",
+      "tbls" : [
+         [
+            "C.36.2.1.4",
+            "table_C.36.2.1.4-1"
+         ]
+      ]
+   },
+   "C.36.2.3.1" : {
+      "tbls" : [
+         [
+            "C.36.2.3.2",
+            "table_C.36.2.3.2-1"
+         ]
+      ],
+      "name" : "RT Patient Position Scope Macro"
+   },
+   "C.8.13.5.4" : {
+      "tbls" : [
+         [
+            "C.8.13.5.5",
+            "table_C.8-92"
+         ]
+      ],
+      "name" : "MR Echo Macro"
+   },
+   "C.36.20.1.2" : {
+      "tbls" : [
+         [
+            "C.36.20.1.3",
+            "table_C.36.20-3"
+         ]
+      ],
+      "name" : "RT Radiation Set Delivery Number and Clinical Fraction Number"
+   },
+   "C.8.15.3.7" : {
+      "name" : "CT Reconstruction Macro",
+      "tbls" : [
+         [
+            "C.8.15.3.8",
+            "table_C.8-124"
+         ]
+      ]
+   },
+   "C.8.25.12" : {
+      "name" : "Visual Acuity Measurements Module",
+      "tbls" : [
+         [
+            "C.8.25.13",
+            "table_C.8.25.13-1"
+         ]
+      ]
+   },
+   "C.18.4" : {
+      "name" : "Image Reference Macro",
+      "tbls" : [
+         [
+            "C.18.5",
+            "table_C.18.5-1"
+         ]
+      ]
+   },
+   "C.34.15" : {
+      "tbls" : [
+         [
+            "C.34.16",
+            "table_C.34.16-1"
+         ]
+      ],
+      "name" : "Protocol Approval Module"
+   },
+   "C.8.27.5" : {
+      "tbls" : [
+         [
+            "C.8.27.6.1",
+            "table_C.8.27.6.1-1"
+         ]
+      ],
+      "name" : "Intravascular Image Acquisition Parameters Module"
+   },
+   "C.11.24" : {
+      "name" : "Volume Cropping Module",
+      "tbls" : [
+         [
+            "C.11.25",
+            "table_C.11.25-1"
+         ]
+      ]
+   },
+   "C.36.2.2.1" : {
+      "name" : "Treatment Device Identification Macro",
+      "tbls" : [
+         [
+            "C.36.2.2.2",
+            "table_C.36.2.2.2-1"
+         ]
+      ]
+   },
+   "C.8.4.9" : {
+      "name" : "NM Image Module",
+      "tbls" : [
+         [
+            "C.8.4.10",
+            "table_C.8-10"
+         ]
+      ]
+   },
+   "C.2.3" : {
+      "name" : "Patient Demographic Module",
+      "tbls" : [
+         [
+            "C.2.4",
+            "table_C.2-4"
+         ]
+      ]
+   },
+   "C.8.8.16" : {
+      "tbls" : [
+         [
+            "C.8.8.17",
+            "table_C.8-53"
+         ]
+      ],
+      "name" : "Approval Module"
+   },
+   "C.8.15.3.8" : {
+      "name" : "CT Exposure Macro",
+      "tbls" : [
+         [
+            "C.8.15.3.9",
+            "table_C.8-125"
+         ]
+      ]
+   },
+   "C.8.27.3" : {
+      "tbls" : [
+         [
+            "C.8.27.4",
+            "table_C.8.27.4-1"
+         ]
+      ],
+      "name" : "Intravascular OCT Acquisition Parameters Module"
+   },
+   "C.7.6.18" : {
+      "tbls" : [
+         [
+            "C.7.6.19",
+            "table_C.7.6.19-1"
+         ]
+      ],
+      "name" : "Physiological Synchronization"
+   },
+   "C.8.13.5.3" : {
+      "tbls" : [
+         [
+            "C.8.13.5.4",
+            "table_C.8-91"
+         ]
+      ],
+      "name" : "MR FOV/Geometry Macro"
+   },
+   "C.2.1" : {
+      "tbls" : [
+         [
+            "C.2.2",
+            "table_C.2-2"
+         ]
+      ],
+      "name" : "Patient Relationship Module"
+   },
+   "C.7.6.16.2.1" : {
+      "tbls" : [
+         [
+            "C.7.6.16.2.2",
+            "table_C.7.6.16-3"
+         ]
+      ],
+      "name" : "Pixel Measures Macro"
+   },
+   "C.8.22.5" : {
+      "name" : "Enhanced PET Image Functional Group Macros",
+      "tbls" : [
+         [
+            "C.8.22.6",
+            "table_C.8.22-19"
+         ]
+      ]
+   },
+   "C.23.4.1" : {
+      "name" : "Hanging Protocol Selector Attribute Context Macro",
+      "tbls" : [
+         [
+            "C.23.4.2",
+            "table_C.23.4-2"
+         ]
+      ]
+   },
+   "C.25" : {
+      "tbls" : [
+         [
+            "C.26.1",
+            "table_C.26-1"
+         ]
+      ],
+      "name" : "Real World Value Mapping Modules"
+   },
+   "C.8.5.6.1.12" : {
+      "tbls" : [
+         [
+            "C.8.5.6.1.13",
+            "table_C.8-20"
+         ]
+      ],
+      "name" : "Samples Per Pixel"
+   },
+   "C.8.25.11" : {
+      "name" : "Subjective Refraction Measurements Module",
+      "tbls" : [
+         [
+            "C.8.25.12",
+            "table_C.8.25.12-1"
+         ],
+         [
+            "C.8.25.12",
+            "table_C.8.25.12-2"
+         ]
+      ]
+   },
+   "C.7.8" : {
+      "tbls" : [
+         [
+            "C.7.9",
+            "table_C.7-22"
+         ],
+         [
+            "C.7.9",
+            "table_C.7-22a"
+         ]
+      ],
+      "name" : "Study Content Module"
+   },
+   "C.8.31.3" : {
+      "name" : "Breast X-Ray Detector Macro",
+      "tbls" : [
+         [
+            "C.8.31.4",
+            "table_C.8.31.4-1"
+         ]
+      ]
+   },
+   "C.20" : {
+      "tbls" : [
+         [
+            "C.21.1",
+            "table_C.21.1-1"
+         ]
+      ],
+      "name" : "Spatial Registration"
+   },
+   "C.8.12.2" : {
+      "name" : "Slide Coordinates Module",
+      "tbls" : [
+         [
+            "C.8.12.3",
+            "table_C.8.12.3-1"
+         ]
+      ]
+   },
+   "C.8.11.1" : {
+      "tbls" : [
+         [
+            "C.8.11.2",
+            "table_C.8-69"
+         ]
+      ],
+      "name" : "DX Series Module"
+   },
+   "C.36.15" : {
+      "tbls" : [
+         [
+            "C.36.16",
+            "table_C.36.16-1"
+         ]
+      ],
+      "name" : "C-Arm Photon-Electron Beam Module"
+   },
+   "C.8.19.6.3" : {
+      "tbls" : [
+         [
+            "C.8.19.6.4",
+            "table_C.8.19.6-4"
+         ]
+      ],
+      "name" : "X-Ray Exposure Control Sensing Regions Macro"
+   },
+   "C.8.21.2" : {
+      "name" : "X-Ray 3D Contributing Image Sources Modules",
+      "tbls" : [
+         [
+            "C.8.21.3.1.1",
+            "table_C.8.21.3.1.1-1"
+         ]
+      ]
+   },
+   "C.12.1.1.8" : {
+      "name" : "Timezone Offset From UTC",
+      "tbls" : [
+         [
+            "C.12.1.1.9",
+            "table_C.12.1.1.9-1"
+         ]
+      ]
+   },
+   "C.8.15.3.2" : {
+      "tbls" : [
+         [
+            "C.8.15.3.3",
+            "table_C.8-119"
+         ]
+      ],
+      "name" : "CT Acquisition Type Macro"
+   },
+   "C.7.6.16.2.19" : {
+      "name" : "Radiopharmaceutical Usage Macro",
+      "tbls" : [
+         [
+            "C.7.6.16.2.20",
+            "table_C.7.6.16.2-21"
+         ]
+      ]
+   },
+   "C.8.25.16.4" : {
+      "name" : "IOL Ophthalmic Axial Length Macro",
+      "tbls" : [
+         [
+            "C.8.25.16.5",
+            "table_C.8.25.16-5"
+         ]
+      ]
+   },
+   "C.13" : {
+      "tbls" : [
+         [
+            "C.14",
+            "table_C.14-1"
+         ]
+      ],
+      "name" : "Print Management Specific Modules"
+   },
+   "C.33" : {
+      "tbls" : [
+         [
+            "C.34.1",
+            "table_C.34.1-1"
+         ]
+      ],
+      "name" : "Content Assessment Modules"
+   },
+   "C.8.13" : {
+      "tbls" : [
+         [
+            "C.8.14.1",
+            "table_C.8-102"
+         ]
+      ],
+      "name" : "Enhanced MR Image"
+   },
+   "C.8.2" : {
+      "tbls" : [
+         [
+            "C.8.3.1",
+            "table_C.8-4"
+         ]
+      ],
+      "name" : "CT Modules"
+   },
+   "C.34.14" : {
+      "tbls" : [
+         [
+            "C.34.15",
+            "table_C.34.15-1"
+         ],
+         [
+            "C.34.15",
+            "table_C.34.15-2"
+         ]
+      ],
+      "name" : "Performed Storage Module"
+   },
+   "C.11.13" : {
+      "tbls" : [
+         [
+            "C.11.14",
+            "table_C.11.14-1"
+         ]
+      ],
+      "name" : "Presentation State Mask Module"
+   },
+   "C.7.6.16.2.3" : {
+      "name" : "Plane Position (Patient) Macro",
+      "tbls" : [
+         [
+            "C.7.6.16.2.4",
+            "table_C.7.6.16-5"
+         ]
+      ]
+   },
+   "C.8.13.5.6" : {
+      "tbls" : [
+         [
+            "C.8.13.5.7",
+            "table_C.8-94"
+         ]
+      ],
+      "name" : "MR Imaging Modifier Macro"
+   },
+   "C.8.26.4" : {
+      "name" : "Visual Field Static Perimetry Test Measurements Module",
+      "tbls" : [
+         [
+            "C.8.26.5",
+            "table_C.8.26.5-1"
+         ]
+      ]
+   },
+   "C.8.7.3" : {
+      "tbls" : [
+         [
+            "C.8.7.4",
+            "table_C.8-29"
+         ]
+      ],
+      "name" : "X-Ray Collimator Module"
+   },
+   "C.8.25.14.2" : {
+      "name" : "Ophthalmic Axial Length Segmental Measurements Macro",
+      "tbls" : [
+         [
+            "C.8.25.14.3",
+            "table_C.8.25.14-4"
+         ]
+      ]
+   },
+   "C.10.5.1.3.12" : {
+      "tbls" : [
+         [
+            "C.10.5.1.3.13",
+            "table_C.10-5b"
+         ]
+      ],
+      "name" : "Text Style Sequence"
+   },
+   "C.11.21" : {
+      "tbls" : [
+         [
+            "C.11.22",
+            "table_C.11.22-1"
+         ]
+      ],
+      "name" : "XA/XRF Presentation State Presentation Module"
+   },
+   "C.7.6.16" : {
+      "tbls" : [
+         [
+            "C.7.6.17",
+            "table_C.7.6.17-1"
+         ]
+      ],
+      "name" : "Multi-frame Functional Groups Module"
+   },
+   "C.32.3.1" : {
+      "tbls" : [
+         [
+            "C.32.3.2",
+            "table_C.32.3.2-1"
+         ]
+      ],
+      "name" : "Display QA Result Context Macro"
+   },
+   "C.8.21.2.2" : {
+      "tbls" : [
+         [
+            "C.8.21.2.3",
+            "table_C.8.21.2.3-1"
+         ]
+      ],
+      "name" : "X-Ray 3D Craniofacial Image Contributing Sources Module"
+   },
+   "C.36.14" : {
+      "tbls" : [
+         [
+            "C.36.15",
+            "table_C.36.15-1"
+         ]
+      ],
+      "name" : "C-Arm Photon-Electron Delivery Device Module"
+   },
+   "C.29.1.2.1.2.1" : {
+      "name" : "Scope",
+      "tbls" : [
+         [
+            "C.29.1.2.1.2.2",
+            "table_C.29.1.2-2"
+         ]
+      ]
+   },
+   "C.8.7.1" : {
+      "name" : "X-Ray Image Module",
+      "tbls" : [
+         [
+            "C.8.7.2",
+            "table_C.8-27"
+         ]
+      ]
+   },
+   "C.8.25.14.3" : {
+      "name" : "Ophthalmic Axial Measurements Related Information Macro",
+      "tbls" : [
+         [
+            "C.8.25.14.4",
+            "table_C.8.25.14-5"
+         ]
+      ]
+   },
+   "C.8.24.3.2" : {
+      "name" : "Image Type",
+      "tbls" : [
+         [
+            "C.8.24.3.3",
+            "table_C.8.24.3.3-1"
+         ]
+      ]
+   },
+   "C.7.1.3" : {
+      "name" : "Clinical Trial Subject Module",
+      "tbls" : [
+         [
+            "C.7.1.4",
+            "table_C.7.1.4-1"
+         ]
+      ]
+   },
+   "C.8.27.2.2" : {
+      "name" : "Volumetric Properties",
+      "tbls" : [
+         [
+            "C.8.27.2.3",
+            "table_C.8.27.2-4"
+         ]
+      ]
+   },
+   "C.11.22" : {
+      "name" : "Volumetric Presentation State Identification Module",
+      "tbls" : [
+         [
+            "C.11.23",
+            "table_C.11.23-1"
+         ]
+      ]
+   },
+   "C.8.13.1.1.1.3" : {
+      "name" : "Image Flavor",
+      "tbls" : [
+         [
+            "C.8.13.1.1.1.4",
+            "table_C.8-81"
+         ]
+      ]
+   },
+   "C.8.15.3.4" : {
+      "tbls" : [
+         [
+            "C.8.15.3.5",
+            "table_C.8-121"
+         ]
+      ],
+      "name" : "CT Table Dynamics Macro"
+   },
+   "C.8.8.4" : {
+      "tbls" : [
+         [
+            "C.8.8.5",
+            "table_C.8-41"
+         ]
+      ],
+      "name" : "RT DVH Module"
+   },
+   "C.8.12.12" : {
+      "tbls" : [
+         [
+            "C.8.12.13",
+            "table_C.8.12.13-1"
+         ]
+      ],
+      "name" : "VL Photographic Geolocation Module"
+   },
+   "C.8.32.2" : {
+      "name" : "Parametric Map Image Module",
+      "tbls" : [
+         [
+            "C.8.32.3.1",
+            "table_PS3.3_C.8.32-3"
+         ]
+      ]
+   },
+   "C.8.25.14.1" : {
+      "tbls" : [
+         [
+            "C.8.25.14.2",
+            "table_C.8.25.14-3"
+         ]
+      ],
+      "name" : "Ophthalmic Axial Measurements Macro"
+   },
+   "C.8.8.23" : {
+      "tbls" : [
+         [
+            "C.8.8.24",
+            "table_C.8.8.24-1"
+         ]
+      ],
+      "name" : "RT Treatment Summary Record Module"
+   },
+   "C.17.2" : {
+      "name" : "SR Document General Module",
+      "tbls" : [
+         [
+            "C.17.3",
+            "table_C.17-4"
+         ],
+         [
+            "C.17.3",
+            "table_C.17-5"
+         ],
+         [
+            "C.17.3",
+            "table_C.17-6"
+         ]
+      ]
+   },
+   "C.8.24.1" : {
+      "tbls" : [
+         [
+            "C.8.24.2",
+            "table_C.8.24.2-1"
+         ]
+      ],
+      "name" : "Enhanced US Series Module"
+   },
+   "C.8.12.10" : {
+      "tbls" : [
+         [
+            "C.8.12.11",
+            "table_C.8.12.11-1"
+         ]
+      ],
+      "name" : "VL Photographic Equipment Module"
+   },
+   "C.11.10" : {
+      "tbls" : [
+         [
+            "C.11.11",
+            "table_C.11.11-1"
+         ],
+         [
+            "C.11.11",
+            "table_C.11.11-1b"
+         ]
+      ],
+      "name" : "Presentation State Identification Module"
+   },
+   "C.10.9" : {
+      "name" : "Waveform Module",
+      "tbls" : [
+         [
+            "C.10.10",
+            "table_C.10-11"
+         ]
+      ]
+   },
+   "C.8.14" : {
+      "name" : "MR Spectroscopy Modules",
+      "tbls" : [
+         [
+            "C.8.15.1",
+            "table_C.8-113"
+         ]
+      ]
+   },
+   "C.7.9.2.1" : {
+      "name" : "Discrete Segment Type",
+      "tbls" : [
+         [
+            "C.7.9.2.2",
+            "table_C.7-26"
+         ]
+      ]
+   },
+   "C.26.2" : {
+      "tbls" : [
+         [
+            "C.26.3",
+            "table_C.26-3"
+         ]
+      ],
+      "name" : "Substance Approval Module"
+   },
+   "C.36.2.2.13" : {
+      "name" : "Blocks Definition Macro",
+      "tbls" : [
+         [
+            "C.36.2.2.14",
+            "table_C.36.2.2.14-1"
+         ]
+      ]
+   },
+   "C.31.2" : {
+      "tbls" : [
+         [
+            "C.31.3",
+            "table_C.31-3"
+         ]
+      ],
+      "name" : "RT Conventional Machine Verification Module"
+   },
+   "C.18.6" : {
+      "name" : "Spatial Coordinates Macro",
+      "tbls" : [
+         [
+            "C.18.7",
+            "table_C.18.7-1"
+         ]
+      ]
+   },
+   "C.8.8.28" : {
+      "name" : "Patient Support Identification Macro",
+      "tbls" : [
+         [
+            "C.8.8.29",
+            "table_C.8.8.29-1"
+         ]
+      ]
+   },
+   "C.10.7" : {
+      "tbls" : [
+         [
+            "C.10.8",
+            "table_C.10-8"
+         ]
+      ],
+      "name" : "Graphic Layer Module"
+   },
+   "C.8.13.2" : {
+      "tbls" : [
+         [
+            "C.8.13.3",
+            "table_C.8-84"
+         ],
+         [
+            "C.8.13.3.1.1",
+            "table_C.8-85"
+         ]
+      ],
+      "name" : "MR Image and Spectroscopy Instance Macro"
+   },
+   "C.8.8.15" : {
+      "name" : "RT Brachy Application Setups Module",
+      "tbls" : [
+         [
+            "C.8.8.16",
+            "table_C.8-52"
+         ]
+      ]
+   },
+   "C.11" : {
+      "tbls" : [
+         [
+            "C.12.1",
+            "table_C.12-1"
+         ]
+      ],
+      "name" : "Look Up Tables and Presentation States"
+   },
+   "C.11.5" : {
+      "name" : "Image Histogram Module",
+      "tbls" : [
+         [
+            "C.11.6",
+            "table_C.11.6-1"
+         ]
+      ]
+   },
+   "C.8.11.3" : {
+      "name" : "DX Image Module",
+      "tbls" : [
+         [
+            "C.8.11.4",
+            "table_C.8-71"
+         ],
+         [
+            "C.8.11.4",
+            "table_C.8-71b"
+         ]
+      ]
+   },
+   "C.8.8.27" : {
+      "name" : "Beam Limiting Device Position Macro",
+      "tbls" : [
+         [
+            "C.8.8.28",
+            "table_C.8.8.28-1"
+         ]
+      ]
+   },
+   "C.4.16" : {
+      "name" : "Radiation Dose Module",
+      "tbls" : [
+         [
+            "C.4.17",
+            "table_C.4-17"
+         ]
+      ]
+   },
+   "C.8.12.1" : {
+      "tbls" : [
+         [
+            "C.8.12.2",
+            "table_C.8-78"
+         ]
+      ],
+      "name" : "VL Image Module"
+   },
+   "C.7.6.16.2.25.1" : {
+      "tbls" : [
+         [
+            "C.7.6.16.2.25.2",
+            "table_C.7.6.16.2.25.2-1"
+         ]
+      ],
+      "name" : "Unassigned Shared Converted Attributes Macro"
+   },
+   "C.8.17.12" : {
+      "tbls" : [
+         [
+            "C.8.17.13",
+            "table_C.8.17.13-1"
+         ]
+      ],
+      "name" : "Wide Field Ophthalmic Photography 3D Coordinates Module"
+   },
+   "C.8.11.7.1.3" : {
+      "name" : "Partial View Code Sequence",
+      "tbls" : [
+         [
+            "C.8.11.7.1.4",
+            "table_C.8-74a"
+         ],
+         [
+            "C.8.11.7.1.4",
+            "table_C.8-74b"
+         ],
+         [
+            "C.8.11.7.1.4",
+            "table_C.8-74c"
+         ],
+         [
+            "C.8.11.7.1.4",
+            "table_C.8-74d"
+         ],
+         [
+            "C.8.11.7.1.4",
+            "table_C.8-74e"
+         ]
+      ]
+   },
+   "C.8.14.1" : {
+      "name" : "MR Spectroscopy Module",
+      "tbls" : [
+         [
+            "C.8.14.2",
+            "table_C.8-103"
+         ]
+      ]
+   },
+   "C.8.19.6.7" : {
+      "tbls" : [
+         [
+            "C.8.19.6.8",
+            "table_C.8.19.6-8"
+         ]
+      ],
+      "name" : "X-Ray Object Thickness Macro"
+   },
+   "C.36.2.2.3" : {
+      "name" : "RT Accessory Device Identification Macro",
+      "tbls" : [
+         [
+            "C.36.2.2.4",
+            "table_C.36.2.2.4-1"
+         ]
+      ]
+   },
+   "C.8.14.4" : {
+      "name" : "MR Spectroscopy Data Module",
+      "tbls" : [
+         [
+            "C.8.14.5",
+            "table_C.8-107"
+         ]
+      ]
+   },
+   "C.17" : {
+      "tbls" : [
+         [
+            "C.18.1",
+            "table_C.18.1-1"
+         ]
+      ],
+      "name" : "SR Document Modules"
+   },
+   "C.7.2.2" : {
+      "tbls" : [
+         [
+            "C.7.2.3",
+            "table_C.7-4b"
+         ]
+      ],
+      "name" : "Patient Study Module"
+   },
+   "C.8.12" : {
+      "tbls" : [
+         [
+            "C.8.13.1",
+            "table_C.8-79"
+         ]
+      ],
+      "name" : "VL Modules and Functional Group Macros"
+   },
+   "C.11.1" : {
+      "name" : "Modality LUT Module",
+      "tbls" : [
+         [
+            "C.11.2",
+            "table_C.11-2"
+         ],
+         [
+            "C.11.2",
+            "table_C.11-2b"
+         ]
+      ]
+   },
+   "C.34.5" : {
+      "name" : "Patient Specification Module",
+      "tbls" : [
+         [
+            "C.34.6",
+            "table_C.34.6-1"
+         ]
+      ]
+   },
+   "C.8.27.4" : {
+      "name" : "Intravascular OCT Processing Parameters Module",
+      "tbls" : [
+         [
+            "C.8.27.5",
+            "table_C.8.27.5-1"
+         ]
+      ]
+   },
+   "C.8.19.4" : {
+      "tbls" : [
+         [
+            "C.8.19.5",
+            "table_C.8.19.5-1"
+         ]
+      ],
+      "name" : "X-Ray Image Intensifier Module"
+   },
+   "C.12.2" : {
+      "tbls" : [
+         [
+            "C.12.3",
+            "table_C.12-9"
+         ]
+      ],
+      "name" : "Common Instance Reference Module"
+   },
+   "C.26.3" : {
+      "tbls" : [
+         [
+            "C.26.4",
+            "table_C.26-4"
+         ]
+      ],
+      "name" : "Substance Administration Module"
+   },
+   "C.8.10" : {
+      "tbls" : [
+         [
+            "C.8.11.1",
+            "table_C.8-68"
+         ]
+      ],
+      "name" : "Hardcopy Modules"
+   },
+   "C.36.2.2.7" : {
+      "name" : "Radiation Generation Mode Macro",
+      "tbls" : [
+         [
+            "C.36.2.2.8",
+            "table_C.36.2.2.8-1"
+         ]
+      ]
+   },
+   "C.11.31" : {
+      "tbls" : [
+         [
+            "C.11.32",
+            "table_C.11.32-1"
+         ]
+      ],
+      "name" : "Render Shading Module"
+   },
+   "C.8.21.3.1.2" : {
+      "name" : "X-Ray 3D General Per Projection Acquisition Macro",
+      "tbls" : [
+         [
+            "C.8.21.3.1.3",
+            "table_C.8.21.3.1.3-1"
+         ]
+      ]
+   },
+   "C.8.16.1.1" : {
+      "name" : "Pixel Data Characteristics",
+      "tbls" : [
+         [
+            "C.8.16.1.2",
+            "table_C.8-128"
+         ]
+      ]
+   },
+   "C.8.22.3" : {
+      "tbls" : [
+         [
+            "C.8.22.4",
+            "table_C.8.22-9"
+         ]
+      ],
+      "name" : "Enhanced PET Image Module"
+   },
+   "C.4.14" : {
+      "tbls" : [
+         [
+            "C.4.15",
+            "table_C.4-15"
+         ]
+      ],
+      "name" : "Performed Procedure Step Information"
+   },
+   "C.11.9" : {
+      "tbls" : [
+         [
+            "C.11.10",
+            "table_C.11.10-1"
+         ]
+      ],
+      "name" : "Presentation Series Module"
+   },
+   "C.8.6.3" : {
+      "tbls" : [
+         [
+            "C.8.6.4",
+            "table_C.8-25c"
+         ]
+      ],
+      "name" : "SC Multi-frame Image Module"
+   },
+   "C.7.6.16.2.11" : {
+      "name" : "Real World Value Mapping Macro",
+      "tbls" : [
+         [
+            "C.7.6.16.2.12",
+            "table_C.7.16-13"
+         ]
+      ]
+   },
+   "C.8.19.2.1.1" : {
+      "tbls" : [
+         [
+            "C.8.19.2.1.2",
+            "table_C.8.19.2-2"
+         ]
+      ],
+      "name" : "Image Type and Frame Type"
+   },
+   "C.10.8" : {
+      "name" : "Waveform Identification Module",
+      "tbls" : [
+         [
+            "C.10.9",
+            "table_C.10-9"
+         ]
+      ]
+   },
+   "C.8.8.25" : {
+      "name" : "RT Ion Beams Module",
+      "tbls" : [
+         [
+            "C.8.8.26",
+            "table_C.8.8.26-1"
+         ]
+      ]
+   },
+   "C.3.3" : {
+      "name" : "Visit Status Module",
+      "tbls" : [
+         [
+            "C.3.4",
+            "table_C.3-4"
+         ]
+      ]
+   },
+   "C.8.4.5" : {
+      "tbls" : [
+         [
+            "C.8.4.6",
+            "table_C.8-5"
+         ]
+      ],
+      "name" : "NM Multi-gated Acquisition Image Module (Retired)"
+   },
+   "C.34.16" : {
+      "tbls" : [
+         [
+            "C.34.17",
+            "table_C.34.17-1"
+         ]
+      ],
+      "name" : "XA Protocol Series Module"
+   },
+   "C.7.6.16.2.9" : {
+      "tbls" : [
+         [
+            "C.7.6.16.2.9b",
+            "table_C.7.6.16-10b"
+         ]
+      ],
+      "name" : "Pixel Value Transformation Macro"
+   },
+   "C.7.6.16.2.23" : {
+      "name" : "Temporal Position Macro",
+      "tbls" : [
+         [
+            "C.7.6.16.2.24",
+            "table_C.7.6.16.2.24-1"
+         ],
+         [
+            "C.7.6.16.2.24.1",
+            "table_C.7.6.16.2.24.1-1"
+         ]
+      ]
+   },
+   "C.8.17.8" : {
+      "name" : "Ophthalmic Tomography Acquisition Parameters Module",
+      "tbls" : [
+         [
+            "C.8.17.9",
+            "table_C.8.17.9-1"
+         ]
+      ]
+   },
+   "C.2" : {
+      "tbls" : [
+         [
+            "C.3.1",
+            "table_C.3-1"
+         ]
+      ],
+      "name" : "Patient Modules"
+   },
+   "C.36.2.2.17" : {
+      "name" : "RT Tolerance Set Macro",
+      "tbls" : [
+         [
+            "C.36.2.2.18",
+            "table_C.36.2.2.18-1"
+         ]
+      ]
+   },
+   "C.8.31" : {
+      "name" : "Breast Projection Image Modules",
+      "tbls" : [
+         [
+            "C.8.32.1",
+            "table_PS3.3_C.8.32-1"
+         ]
+      ]
+   },
+   "C.11.3" : {
+      "tbls" : [
+         [
+            "C.11.4",
+            "table_C.11-4"
+         ]
+      ],
+      "name" : "LUT Identification Module"
+   },
+   "C.8.32" : {
+      "name" : "Parametric Map",
+      "tbls" : [
+         [
+            "C.8.33.1",
+            "table_C.8.33-1"
+         ]
+      ]
+   },
+   "C.8.15.3.3" : {
+      "tbls" : [
+         [
+            "C.8.15.3.4",
+            "table_C.8-120"
+         ]
+      ],
+      "name" : "CT Acquisition Details Macro"
+   },
+   "C.8.5.6.1.11" : {
+      "name" : "Overlay Subtype",
+      "tbls" : [
+         [
+            "C.8.5.6.1.12",
+            "table_C.8-19"
+         ]
+      ]
+   },
+   "C.8.13.3.1.1" : {
+      "name" : "Complex Image Component",
+      "tbls" : [
+         [
+            "C.8.13.3.1.2",
+            "table_C.8-86"
+         ]
+      ]
+   },
+   "C.7.6.5" : {
+      "name" : "Cine Module",
+      "tbls" : [
+         [
+            "C.7.6.6",
+            "table_C.7-14"
+         ]
+      ]
+   },
+   "C.8.21.3.3" : {
+      "tbls" : [
+         [
+            "C.8.21.3.4",
+            "table_C.8.21.3.4-1"
+         ]
+      ],
+      "name" : "X-Ray 3D Craniofacial Acquisition Module"
+   },
+   "C.8.8.19" : {
+      "name" : "Measured Dose Reference Record Module",
+      "tbls" : [
+         [
+            "C.8.8.20",
+            "table_C.8-56"
+         ]
+      ]
+   },
+   "C.8.4.8" : {
+      "name" : "NM Multi-frame Module",
+      "tbls" : [
+         [
+            "C.8.4.9",
+            "table_C.8-9"
+         ]
+      ]
+   },
+   "C.10.4" : {
+      "tbls" : [
+         [
+            "C.10.5",
+            "table_C.10-5"
+         ]
+      ],
+      "name" : "Displayed Area Module"
+   },
+   "C.8.17.3" : {
+      "name" : "Ophthalmic Photographic Parameters Module",
+      "tbls" : [
+         [
+            "C.8.17.4",
+            "table_C.8.17.4-1"
+         ]
+      ]
+   },
+   "C.8.25.8" : {
+      "tbls" : [
+         [
+            "C.8.25.9",
+            "table_C.8.25.9-1"
+         ]
+      ],
+      "name" : "Lensometry Measurements Module"
+   },
+   "C.8.22.4" : {
+      "tbls" : [
+         [
+            "C.8.22.5.1",
+            "table_C.8.22-10"
+         ]
+      ],
+      "name" : "Enhanced PET Isotope Module"
+   },
+   "C.7.6.16.2.18" : {
+      "name" : "Irradiation Event Identification Macro",
+      "tbls" : [
+         [
+            "C.7.6.16.2.19",
+            "table_C.7.6.16.2-20"
+         ]
+      ]
+   },
+   "C.11.25" : {
+      "tbls" : [
+         [
+            "C.11.26",
+            "table_C.11.26-1"
+         ]
+      ],
+      "name" : "Presentation View Description Module"
+   },
+   "C.12.1.1.4.1" : {
+      "name" : "Encrypted Attributes Sequence",
+      "tbls" : [
+         [
+            "C.12.1.1.4.2",
+            "table_C.12-7"
+         ]
+      ]
+   },
+   "C.8.13.5.2" : {
+      "name" : "MR Timing and Related Parameters Macro",
+      "tbls" : [
+         [
+            "C.8.13.5.3",
+            "table_C.8-90"
+         ]
+      ]
+   },
+   "C.8.11.7" : {
+      "name" : "Mammography Image Module",
+      "tbls" : [
+         [
+            "C.8.11.8",
+            "table_C.8-75"
+         ]
+      ]
+   },
+   "C.8.2.2.1" : {
+      "tbls" : [
+         [
+            "C.8.2.2.2",
+            "table_C.8.2.2-3"
+         ]
+      ],
+      "name" : "Multi-energy CT X-Ray Source Macro"
+   },
+   "C.8.12.6.1" : {
+      "name" : "Plane Position (Slide) Macro",
+      "tbls" : [
+         [
+            "C.8.12.6.2",
+            "table_C.8.12.6.2-1"
+         ]
+      ]
+   },
+   "C.12.1.1.3.1.1" : {
+      "name" : "Data Elements Signed",
+      "tbls" : [
+         [
+            "C.12.1.1.3.1.2",
+            "table_C.12.1.1.3.1.2-1"
+         ]
+      ]
+   },
+   "C.8.25.15" : {
+      "tbls" : [
+         [
+            "C.8.25.16",
+            "table_C.8.25.16-1"
+         ]
+      ],
+      "name" : "Intraocular Lens Calculations Series Module"
+   },
+   "C.8.7.7" : {
+      "tbls" : [
+         [
+            "C.8.7.8",
+            "table_C.8-33"
+         ]
+      ],
+      "name" : "X-Ray Tomography Acquisition Module"
+   },
+   "C.7.6.16.2.4" : {
+      "name" : "Plane Orientation (Patient) Macro",
+      "tbls" : [
+         [
+            "C.7.6.16.2.5",
+            "table_C.7.6.16-6"
+         ]
+      ]
+   },
+   "C.7.6.21" : {
+      "tbls" : [
+         [
+            "C.7.6.22",
+            "table_C.7.6.22-1"
+         ],
+         [
+            "C.7.6.22",
+            "table_C.7.6.22-2"
+         ]
+      ],
+      "name" : "Image - Equipment Coordinate Relationship Module"
+   },
+   "C.8.31.6.1" : {
+      "name" : "Isocenter Reference System Attribute Descriptions",
+      "tbls" : [
+         [
+            "C.8.31.7",
+            "table_C.8.31.7-1"
+         ]
+      ]
+   },
+   "C.8.31.1" : {
+      "tbls" : [
+         [
+            "C.8.31.2",
+            "table_C.8.31.2-1"
+         ]
+      ],
+      "name" : "Enhanced Mammography Image Module"
+   }
+}
