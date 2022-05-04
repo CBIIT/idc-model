@@ -12,8 +12,8 @@ The
 currently contains a large volume and wide variety of biomedical
 images related to participants in a number of large-scale cancer
 studies. Many of these studies are represented in other repositories
-of the CRDC, such as the [Genomic Data Commons]() and the
-[Proteomic Data Commons](). The IDC is intended to be the major image
+of the CRDC, such as the [Genomic Data Commons](https://gdc.cancer.gov/) and the
+[Proteomic Data Commons](https://pdc.cancer.gov/pdc/). The IDC is intended to be the major image
 repository for new studies whose data enter the CRDC
 ecosystem. Because of this, it is critical that links between data
 related to the same study participants are maintained and preserved
