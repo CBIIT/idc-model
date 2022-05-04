@@ -268,7 +268,7 @@ The standard defines a number of real world models for specific use
 cases. Here we draft a top-level IDC DICOM model using the Part
 3, Fig. 7-1a MRW as a basis. 
 
-![DICOM Standard Part 3, Fig 7-1a](./PS3.3_7-1a.svg | width=500)
+![DICOM Standard Part 3, Fig 7-1a](/doc/PS3.3_7-1a.svg|width=500px)
 
 Below these top-level nodes, we
 can collect information modules (as discussed above), mainly according
@@ -310,7 +310,7 @@ follows:
 At the topmost level, we see the draft model recapitulates the main
 features of the basic MRW of the standard:
 
-![IDC toplevel Neo4j](./idc-mrw.png | width=500)
+![IDC toplevel Neo4j](/doc/idc-mrw.png|width=500px)
 
 The [IDC documentation](https://learn.canceridc.dev/dicom/data-model)
 describes a simple example of the use of DICOM information entities. 
@@ -318,7 +318,7 @@ It notes that the "Patient Information Module will...include such
 attributes as PatientID, PatientName, and PatientSex". This example
 can be searched and found in the draft model:
 
-![patient node components](./idc-patient-node.png | width=500)
+![patient node components](/doc/idc-patient-node.png|width=500px)
 
 
 
