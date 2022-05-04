@@ -17,30 +17,31 @@ of the CRDC, such as the [Genomic Data Commons]() and the
 repository for new studies whose data enter the CRDC
 ecosystem. Because of this, it is critical that links between data
 related to the same study participants are maintained and preserved
-between IDC and other CRDC nodes. It is also important to understand
-whether and how clinical data, biospecimen data, and other metadata
-informing the image data at IDC can be meaningfully compared to
-analogous data for the same participants present at the other
-repositories. Practically, relating data at IDC to other data at other
-CRDC "nodes" in a consistent and computable way is a key requirement
-for the functionality of the
+between IDC and other CRDC "nodes" (repositories). It is also
+important to understand whether and how clinical data, biospecimen
+data, and other metadata informing the image data at IDC can be
+meaningfully compared to analogous data for the same participants
+present at the other repositories. Practically, relating data at IDC
+to other data at other CRDC nodes in a consistent and computable way
+is a key requirement for the functionality of the
 [Cancer Data Aggregator](https://datacommons.cancer.gov/cancer-data-aggregator),
 a service that will allow users to query the entire CRDC from a single
 point of entry.
 
-A step towards meeting these needs is to compare the data model of the
-IDC to those of other CRDC repositories. That is, to understand the
-how data variables and their data types compare and perhaps directly
-or indirectly map between IDC and other repositories. To do this kind
-of comparision, it is helpful to have a computable, standardized
-representation of the data models of interest. This is relatively
-straightforward for most CRDC node models, but the IDC data model is
-of a somewhat different character and structure. 
+A step towards meeting these needs is to compare the _data model_ of the
+IDC to those of other CRDC repositories; that is, to understand the
+how data variables and their data types for similar data are
+understood and encoded, and ideally  directly or indirectly map these
+variable between IDC and other nodes. To do this kind of comparision,
+it is helpful to have a computable, standardized representation of the
+data models of interest. This is relatively straightforward for most
+CRDC node models, but the IDC data model is of a somewhat different
+character and structure.
 
 The IDC has naturally adopted the
 [Digital Imaging and Communications in Medicine (DICOM)](https://www.dicomstandard.org/)
 international imaging data standard. The standard has many different
-components that cover a vast number of data use cases in a complex and
+components that cover a vast number of data use cases in a complex,
 dynamic technological and regulatory space. A "DICOM data model"
 exists, but is implicit in the structure of standard as published. We
 have created a draft of the IDC-specific portions of the DICOM model
@@ -106,7 +107,7 @@ these associations.)
 ## Capturing DICOM data model structure
 
 DICOM data model structure can be inferred in a more or less
-automated way by parsing the XML formatted DocBook source of key parts
+automated way by parsing the XML-formatted DocBook source of key parts
 of the standard. These XML files are available at
 [https://www.dicomstandard.org/current](https://www.dicomstandard.org/current).
 
@@ -114,19 +115,25 @@ of the standard. These XML files are available at
 
 The DICOM data dictionary, where DICOM attributes with their tags are
 defined, is given in Part 3 of the
-standard. [dicom-dict.pl](../dicom/dicom-dict.pl) extracts attribute names,
-corresponding keywords, tags, descriptions, and data types into a
-reduced json format in [dicom-tables.json](../dicom/dicom-tables.json). The
-keywords, which are in general camel-case forms of the attribute
-names, are used by IDC as column names in its BigQuery tables. Finding
-attributes in the DICOM data dictionary using IDC column names is a
-first step to mapping IDC data elements into the DICOM structure.
+standard. [dicom-dict.pl](../dicom/dicom-dict.pl) extracts attribute
+names, corresponding keywords, tags, descriptions, and data types into
+a reduced json format in
+[dicom-tables.json](../dicom/dicom-tables.json). A tab-separated text
+view of the attributes and their DICOM identifiers or _tags_ is in
+[idc-attr-to-dcm-parent.txt](/dicom/idc-attr-to-dcm-parent.txt)
+
+The keywords, which
+are typically [camel-case](https://en.wikipedia.org/wiki/Camel_case)
+forms of the attribute names, are used by IDC as column names in its
+BigQuery tables. Finding attributes in the DICOM data dictionary using
+IDC column names is a first step to mapping IDC data elements into the
+DICOM structure.
 
 ### Information Objects
 
 DICOM standard Part 3, _Information Object Definitions_, is the source
 of the DICOM data model structure. In particular, it includes tables
-that relate attributes (data dictionary elements, or "slots" for
+that relate attributes (data dictionary elements, "variables", or "slots" for
 actual data observations) to logical groupings that are part of the
 standard. 
 
@@ -139,11 +146,11 @@ hierarchical way. The groups of attributes can be other modules or so-called
 ["Sequences"](https://dicom.nema.org/medical/dicom/current/output/html/part03.html#sect_5.2))
 are themselves composed of a set of certain scalar-valued attributes.
 
-Any given attribute can be composed into a Module, therefore, as
-itself, or as a member of a sequence attribute, another Module, or a
-Macro. The resulting source hierarchy of an attribute within a Module
-can be many levels deep. An attribute may also appear in several
-different Modules or Macros.
+Any given attribute can be composed into a module, therefore,
+individually or as a member of a sequence attribute, another module,
+or a macro. The resulting source hierarchy of an attribute within a
+module can be many levels deep. An attribute may also appear in
+several different modules or macros.
 
 The composition of modules in terms of other modules, macros, and
 attributes is given in Part 3 of the
@@ -164,6 +171,8 @@ recorded in this way are
 |macro | 271|
 |module | 385|
 |Total | 4778|
+
+Further annotated analysis can be found in [analysis.sql](/dicom/analysis.sql).
 
 ## Modules and the DICOM Model of the Real World
 
@@ -204,7 +213,7 @@ associated information modules to these using graph relationships
 
 By running simple queries on the open 
 [IDC data tables]((https://learn.canceridc.dev/data/organization-of-data/files-and-metadata#bigquery-tables)), 
-we could obtain all column names in use. Based on documentation and
+we can obtain [all column names](/examples/idc-columns.json) in use. Based on documentation and
 inspection, it is clear that DICOM attributes are represented in IDC
 tables by columns named with attribute keywords. 
 
@@ -241,7 +250,7 @@ Finally, we note that 88 of the 749 standard attributes are "sequence"
 attributes, which are actually containers including a defined set of
 mainly scalar-valued attributes. Therefore, some scalar-valued DICOM
 attributes are part of the IDC model by virtue of these sequences, and
-are not specified explicitly as Bigquery column names.
+are not specified explicitly as BigQuery column names.
 
 ### Extracting a hierarchy of entities and pruning
 
@@ -258,9 +267,9 @@ This subtree is output in
 [idc-dicom-model.yaml](../model-desc/idc-dicom-model.yaml), which enables it to be
 automatically loaded into a Neo4j graph database for further
 inspection. Modules, macros, and sequence attributes are considered
-'nodes', scalar-valued attributes are treated as 'properties', and the
+graph _nodes_, scalar-valued attributes are treated as _properties_, and the
 inclusion of components (specified in tables in Part 3) are
-represented by 'relationships' or 'edges'.
+represented by _relationships_ or _edges_.
 
 ## Adding the Real World Model
 
@@ -270,12 +279,12 @@ cases. Here we draft a top-level IDC DICOM model using the Part
 
 <img src="/doc/PS3.3_7-1a.svg" width="500px"/>
 
-Below these top-level nodes, we
-can collect information modules (as discussed above), mainly according
-to the groupings that are defined in the titles of the top-level
-sections of the standard's Part 3 Appendix C. "Collecting" here means
-using graph relationships to link module nodes to the top level,
-real-world nodes.
+Below these top-level nodes, we can collect information modules (as
+discussed above), mainly according to the groupings that are defined
+in the titles of the top-level sections of the standard's
+[Part 3, Appendix C](https://dicom.nema.org/medical/dicom/current/output/chtml/part03/chapter_C.html). "Collecting"
+here means using graph relationships to link module nodes to the top
+level, real-world nodes.
 
 In this draft, we are also creating a number of modality-specific
 nodes (e.g., Radiotherapy Modality, Magnetic Resonance Modality, etc.)
@@ -290,15 +299,16 @@ have IDC-specific customizations and will need additional
 consideration.
 
 The real world model layer of the graph representation is rendered as
-MDF in [idc-dicom-mrw-model.yaml](../model-desc/idc-dicom-mrw-model.yaml). The
-merge feature of MDF allows this part of the model to be changed 
-readily, while keeping the DICOM data structures constant in the
-separate file above.
+MDF in
+[idc-dicom-mrw-model.yaml](../model-desc/idc-dicom-mrw-model.yaml). The
+[merge feature of MDF](https://github.com/CBIIT/bento-mdf#multiple-input-yaml-files-and-overlays)
+allows this part of the model to be changed readily, while keeping the
+DICOM data structures constant in the separate file above.
 
 We loaded a clean Neo4j graph database running in a Docker container
 with the entire draft model using the `load-mdf.py` script included in
 the Python package
-[bento-mdf](https://github.com/CBIIT/bento-mdf/drivers/python) as
+[bento-mdf](https://github.com/CBIIT/bento-mdf/tree/master/drivers/python) as
 follows:
 
     $ load-mdf.py --handle IDC --commit test --bolt bolt://localhost:<port> \
@@ -310,7 +320,7 @@ follows:
 At the topmost level, we see the draft model recapitulates the main
 features of the basic MRW of the standard:
 
-<img src="/doc/idc-mrw.png" width="500px"/>
+<img src="/doc/idc-mrw.png" width="800px"/>
 
 The [IDC documentation](https://learn.canceridc.dev/dicom/data-model)
 describes a simple example of the use of DICOM information entities. 
@@ -318,9 +328,9 @@ It notes that the "Patient Information Module will...include such
 attributes as PatientID, PatientName, and PatientSex". This example
 can be searched and found in the draft model:
 
-<img src="/doc/idc-patient-node.png" width="500px"/>
+<img src="/doc/idc-patient-node.png" width="800px"/>
 
-
+_to be continued..._
 
 
 
